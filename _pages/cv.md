@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![avatar](https://keli97.github.io/files/cv_header.jpg)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
