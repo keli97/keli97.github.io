@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<center>![avatar](https://keli97.github.io/files/download.png)<font face="黑体">Download my latest Curriculum Vitae</font></center>](https://keli97.github.io/files/KeLi_CV.pdf)
+[<center><font face="黑体">Download my latest Curriculum Vitae</font></center>](https://keli97.github.io/files/KeLi_CV.pdf)
 ------
 
 Education
