@@ -11,7 +11,6 @@ redirect_from:
 
 Master Distinguished Lecture, SJTU
 ----------
-
 **Director: May. 2017 - Sep. 2018**
 
 * Organized professional academic lectures and invited academics to deliver speeches at SJTU; Invited 102 scholars in total, including 8 Nobel Prize Laureates.
@@ -19,7 +18,6 @@ Master Distinguished Lecture, SJTU
 
 Development Program for Excellent Student of SJTU
 ----------
-
 **Group Leader: Apr. 2017 - Present**
 
 * Organized various activities, such as lectures, speech contests, volunteer programs, and summer social activities for other students at SJTU to cultivate leadership and a sense of responsibility.
