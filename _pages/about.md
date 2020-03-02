@@ -12,7 +12,7 @@ redirect_from:
 
 * My research interests cover a wide range of Networks and Systems, including network optimization, wireless network, crowdsourcing, and D2D communication network. I have published two papers about clustering problems in Wireless Sensor Networks (WSNs) of Internet of Things (IoT) in [Transactions on Wireless Communications (TWC)](https://ieeexplore.ieee.org/document/8765348) and [the 48th International Conference on Parallel Processing (ICPP 2019)](https://dl.acm.org/doi/10.1145/3337821.3337926) respectively. 
 
-* Click [here](https://keli97.github.io/files/KeLi_CV.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to contact me.
+* Click [here](https://keli97.github.io/files/KeLi_CV.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](https://keli97.github.io/contact/).
 
 Update news
 ------
