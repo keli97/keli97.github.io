@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div align="center">
-![avatar](https://keli97.github.io/files/cv_header.jpg){:height="700" width="700"}
-</div>
+![avatar](https://keli97.github.io/files/cv_header.jpg){:height=80% width=80%}
 
 [<center><font face="黑体">Download my latest Curriculum Vitae</font></center>](https://keli97.github.io/files/KeLi_CV.pdf)
 ------
