@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /cv/
+    url: https://keli97.github.io/cv/
     
   - title: "Research&Publications"
-    url: /publications/
+    url: https://keli97.github.io/publications/
 
   - title: "Awards&Honors"
-    url: /awards/    
+    url: https://keli97.github.io/awards/    
 
   - title: "Activities&Leadership"
-    url: /activities/ 
+    url: https://keli97.github.io/activities/ 
     
   - title: "Contact"
-    url: /contact/ 
+    url: https://keli97.github.io/contact/ 
 
