@@ -9,15 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
----
 title: "Master Distinguished Lecture, SJTU"
-collection: talks
-type: "Talk"
-permalink: 
-venue: "Director"
-date: May. 2017 - Sep. 2018
-location: 
----
+------
+
+**Director: May. 2017 - Sep. 2018**
 
 * Organized professional academic lectures and invited academics to deliver speeches at SJTU; Invited 102 scholars in total, including 8 Nobel Prize Laureates.
 * Worked as the director and participated in the entire process of lecture, including brand building, publicity, directing, reception and recognition.
