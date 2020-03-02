@@ -11,7 +11,7 @@ redirect_from:
 
 Shanghai Jiao Tong University
 
-No.800 Dongchuan Road, Shanghai, China
+No. 800 Dongchuan Road, Shanghai, China
 
 Email: like19971019 \[at\] sjtu.edu.cn
 
