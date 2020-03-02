@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-title: "Master Distinguished Lecture, SJTU"
+Master Distinguished Lecture, SJTU
 ------
 
 **Director: May. 2017 - Sep. 2018**
