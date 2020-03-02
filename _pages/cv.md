@@ -11,6 +11,8 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header.jpg)
 
+[<size=5 face="黑体">Download my latest Curriculum Vitae</font>](https://keli97.github.io/files/KeLi_CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
