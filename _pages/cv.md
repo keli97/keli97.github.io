@@ -22,7 +22,7 @@ Education
   * Proposed TagAttack, a system that builds the first near-field MIMO technique which can largely extend the NFC communication and designed a bunch of MIMO coils which consist of printed circuit copper and capacitors.
   * Submitted a paper based on the NFC project to the conference Mobisys 2020 with me as the second author.
   * Click [here](https://keli97.github.io/files/Recoil_poster.pdf) to see a poster summarizing my work at CMU.
-* *Senior High School* at **Jiangsu Suzhou Experimental Middle Schoo**, Sept. 2013 - Jun. 2016.
+* *Senior High School* at **Jiangsu Suzhou Experimental Middle School**, Sept. 2013 - Jun. 2016.
   * Ranked Second of Senior High School in National College Entrance Examination
   * Granted Merit Student Award of Jiangsu Province
 
