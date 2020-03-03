@@ -18,3 +18,9 @@ redirect_from:
 
 Update news
 ------
+* Sept. 2019: I am honored to join the Intelligent Internet of Things (IIOT) Research Center and work on the backscatter project for my undergraduate thesis, advised by Prof. Xiaohua Tian.
+* Jul. 2019: Thank Prof. Swarun Kumar for accepting me as a summer intern at his Laboratory for Emerging Wireless Technologies (WiTech) lab of CMU, where I work on an NFC project.
+* Jun. 2019: Check out our distributed approximation algorithm to select cluster heads for a homogeneous network in three-dimensional situation, which is accepted by IEEE TWC.
+* May 2019: Check out QLEC, a machine-learning-based energy-efficient clustering algorithm in high-dimensional space, which is published in ICPP 2019. 
+* Feb. 2017: I am honored to join the Data Communication and Engineering (DCE) lab advised by Prof. Xiaofeng Gao, working on wireless networking and sensing.
+* Sept. 2016: I start my undergraduate study majoring in Information Engineering at Shanghai Jiao Tong University (SJTU), which is the Top 5 university in China.
