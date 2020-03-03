@@ -34,13 +34,18 @@ Publications
 
 Research & Contests
 ======
-* **Crowdsourcing Task Assignment Strategy and Optimization Based on Social Network**, *The 18th Innovation and Practice Plan for Undergraduates of SJTU*, Nov. 2018 - Present
+* **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU*, Apr. 2018 - Present
+  * Designed an efficient service scheme transmitting Scalable Video Coding-based Adaptive Streaming (SVC-AS) in D2D communications; Proposed a fast D2D Multimedia Transmission Scheme based on the Minimum-Degree Spanning Tree (MDST) algorithm with an acceptable running time.
+  * Evaluated the performance and efficiency of the scheme using a real-world dataset based on NS2, where it outperformed the baseline scheme FlashLinQ in all areas.
+* **Crowdsourcing Task Assignment Strategy and Optimization Based on Social Network**, *The 18th Innovation and Practice Plan for Undergraduates of SJTU*, Nov. 2018 - Nov. 2019
   * Optimized the task assignment scheme in spatial crowdsourcing and proposed efficient truth inference algorithms.
   * Measured the fairness of the whole system using Jain's Fairness Index after a preliminary experiment.
   * Processed the data and conducted experiments on online crowdsourcing platforms.
-* **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU*, Apr. 2018 - Aug. 2018
-  * Designed an efficient service scheme transmitting Scalable Video Coding-based Adaptive Streaming (SVC-AS) in D2D communications; Proposed a fast D2D Multimedia Transmission Scheme based on the Minimum-Degree Spanning Tree (MDST) algorithm with an acceptable running time.
-  * Evaluated the performance and efficiency of the scheme using a real-world dataset based on NS2, where it outperformed the baseline scheme FlashLinQ in all areas.
+* **DREAM: An Ecological Game to Grow and Migrate Three Dragons**, *American Mathematical Contest in Modeling, Meritorious Winner (Top 6%), Team leader*, Jan. 2019.
+  * Aimed to give a picture of three dragons existing in reality, we devise Dragon-Raising Ecology and Annual Migration (DREAM) model to describe the biological features of dragons and calculate energy expenditures and ecological requirements.
+  * In Dragon-Raising Ecology model, Logistic Model, Fourier Law of Heat Conduction, Maxwell’s Velocity Distribution Law, and other well-proved theories are employed to construct the foundations of our model. Meanwhile, Markov Chain is hired to calculate the probability of dragons in resting, flying, fighting, and death state. Combining Dragon-Raising Ecology model with analogy method and modest estimation, we obtain energy expenditures of weight growth, basic metabolism, temperature maintaining and evaporation energy dissipation.
+  * In Annual Migration model, we apply Thin Airfoil Theory to calculating energy of flying energy dissipation. Adopting the integrity of our DREAM model, we further calculate total energy expenditures, caloric intake as well as the size of area and community required to support dragons.
+  * Click [here](http://keli97.github.io/files/DREAM-An-Ecological-Game-to-Grow-and-Migrate-Three-Dragons.pdf) to see our MCM paper.
 * **Modeling Trends of Global Languages and Location Options for New Offices**, *American Mathematical Contest in Modeling, Meritorious Winner (Top 10%), Team leader*, Feb. 2018.
   * Designed a Speaker Prediction Model that used study time of a language in a country to predict the distribution and numbers of various language speakers over time in different countries, based on the 10,000-Hour Rule.
   * Proposed a Location Selection Model to provide location options for new offices using the Analytic Hierarchy Process and optimized the options with the Genetic Algorithm.
