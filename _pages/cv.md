@@ -26,12 +26,30 @@ Education
   * Ranked Second of Senior High School in National College Entrance Examination
   * Granted Merit Student Award of Jiangsu Province
 
-Research & Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Research & Contests
+======
+* **Crowdsourcing Task Assignment Strategy and Optimization Based on Social Network**, *The 18th Innovation and Practice Plan for Undergraduates of SJTU*, Nov. 2018 - Present
+  * Optimized the task assignment scheme in spatial crowdsourcing and proposed efficient truth inference algorithms.
+  * Measured the fairness of the whole system using Jain's Fairness Index after a preliminary experiment.
+  * Processed the data and conducted experiments on online crowdsourcing platforms.
+* **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU*, Apr. 2018 - Aug. 2018
+  * Designed an efficient service scheme transmitting Scalable Video Coding-based Adaptive Streaming (SVC-AS) in D2D communications; Proposed a fast D2D Multimedia Transmission Scheme based on the Minimum-Degree Spanning Tree (MDST) algorithm with an acceptable running time.
+  * Evaluated the performance and efficiency of the scheme using a real-world dataset based on NS2, where it outperformed the baseline scheme FlashLinQ in all areas.
+* **Modeling Trends of Global Languages and Location Options for New Offices**, *American Mathematical Contest in Modeling, Meritorious Winner (Top 10%), Team leader*, Feb. 2018.
+  * Designed a Speaker Prediction Model that used study time of a language in a country to predict the distribution and numbers of various language speakers over time in different countries, based on the 10,000-Hour Rule.
+  * Proposed a Location Selection Model to provide location options for new offices using the Analytic Hierarchy Process and optimized the options with the Genetic Algorithm.
+  * Click [here](http://keli97.github.io/files/Modeling-Trends-of-Global-Languages-and-Location-Options-for-New-Offices.pdf) to see our MCM paper.
+* **Development of Immersion Stereometric Manipulation Replacement Robot**, *The 32nd Participation in Research Program of SJTU*, Apr. 2017 - Oct.2017
+  * Designed binocular stereo glasses to observe the remote scene; Controlled the robot with a handle and gloves.
+  * Received an A grade as the team leader and best performer in the project.
+  * Click [here](http://keli97.github.io/files/Development-of-Immersion-Stereometric-Manipulation-Replacement-Robot.pdf) to see our final report (in Chinese).
+
 Technical skills
 ======
 * Programming Language
