@@ -26,7 +26,7 @@ Education
   * Ranked Second of Senior High School in National College Entrance Examination
   * Granted Merit Student Award of Jiangsu Province
 
-Publications
+Research & Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
