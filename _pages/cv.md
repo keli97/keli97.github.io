@@ -43,6 +43,6 @@ Technical skills
 English proficiency
 ======
 * TOEFL: 108
-  * Reading 30   Listening 26   Speaking 23   Writing 29
+  * Reading 30, Listening 26, Speaking 23, Writing 29
 * GRE: 321
   * V152 Q169+AW4 
