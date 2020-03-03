@@ -20,7 +20,7 @@ Update news
 ------
 * Sept. 2019: I am honored to join the [IIOT Research Center](http://iiot.sjtu.edu.cn/index.html) and work on the backscatter project for my undergraduate thesis, advised by [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/).
 * Jul. 2019: Thank [Prof. Swarun Kumar](http://www.swarunkumar.com/) for accepting me as a summer intern at his [Laboratory for Emerging Wireless Technologies (WiTech) lab](http://www.witechlab.com/) of [CMU](https://www.cmu.edu/), where I work on an NFC project.
-* Jun. 2019: Check out our [distributed approximation algorithm](https://ieeexplore.ieee.org/document/8765348) to select cluster heads for a homogeneous network in three-dimensional situation, which is accepted by IEEE TWC.
-* May 2019: Check out [QLEC](https://dl.acm.org/doi/10.1145/3337821.3337926), a machine-learning-based energy-efficient clustering algorithm in high-dimensional space, which is published in ICPP 2019. 
+* Jun. 2019: Check out our [distributed approximation algorithm](https://keli97.github.io/publication/2019-06-05-A-Constant-Factor-Approximation-for-d-Hop-Connected-Dominating-Set-in-3-Dimensional-Wireless-Networks) to select cluster heads for a homogeneous network in three-dimensional situation, which is accepted by IEEE TWC.
+* May 2019: Check out [QLEC](https://keli97.github.io/publication/2019-05-21-QLEC-A-Machine-Learning-Based-Energy-Efficient-Clustering-Algorithm-to-Prolong-Network-Lifespan-for-IoT-in-High-Dimensional-Space), a machine-learning-based energy-efficient clustering algorithm in high-dimensional space, which is published in ICPP 2019. 
 * Feb. 2017: I am honored to join the Data Communication and Engineering (DCE) lab advised by [Prof. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/), working on wireless networking and sensing.
 * Sept. 2016: I start my undergraduate study majoring in Information Engineering at [SJTU](http://en.sjtu.edu.cn/), which is the Top 5 university in China.
