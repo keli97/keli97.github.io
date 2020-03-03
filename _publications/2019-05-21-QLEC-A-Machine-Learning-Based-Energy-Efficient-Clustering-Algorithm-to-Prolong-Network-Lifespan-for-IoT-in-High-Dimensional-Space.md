@@ -11,6 +11,10 @@ citation: 'Ke Li, Haowei Huang, Xiaofeng Gao, Fan Wu and Guihai Chen. (2019). &q
 August 5–8, 2019, Kyoto, Japan  
 Keyword: IoT, Energy-Efficient Clustering, Q-learning, Lifespan-Extended Network, High-Dimensional Space
 
+* Improved Distributed Energy Efficient Clustering (DEEC) algorithm with energy constraints and cluster coverage ranges of sensors in 3-dimensional WSNs taken into consideration.
+* Adopted Q-learning scheme to choose cluster heads for routing packets of each sensor.
+* Solved the Energy-Efficient Clustering Problem (EECP), which is an NP-Complete problem in the running time O(kX), where k is the cluster number and X is the number of updates that Q-learning needs to converge.
+* Conducted experiments with the algorithm and outperformed k-means clustering and an FCM-based algorithm in terms of network lifespan, packet delivery rate, and transmission latency.
 
 [Download paper here](http://keli97.github.io/files/QLEC-A-Machine-Learning-Based-Energy-Efficient-Clustering-Algorithm-to-Prolong-Network-Lifespan-for-IoT-in-High-Dimensional-Space.pdf)
 
