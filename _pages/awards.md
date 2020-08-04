@@ -33,11 +33,17 @@ National Scholarship (1/158)
 
 Top scholarship awarded to undergraduates in China for their achievements in academics
 
+Outstanding Participant Title in the 2018 Summer Social Practice of SJTU (Top 2%)
+----------
+**Nov. 2018**
+
+Honor bestowed on outstanding participants in the 2018 Summer Social Practice of SJTU
+
 B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 2%)
 ----------
 **Nov. 2018**
 
-Scholarship awarded to outstanding students in SJTU
+Scholarship awarded to outstanding students at SJTU
 
 National Scholarship (3/158)
 ----------
