@@ -19,7 +19,7 @@ A-level Outstanding Scholarship of Shanghai Jiaotong University (Top 1%)
 ----------
 **Nov. 2019**
 
-Scholarship awarded to outstanding students in SJTU
+Scholarship awarded to outstanding students at SJTU
 
 Tang Lixin Scholarship (Top 0.2%)
 ----------
