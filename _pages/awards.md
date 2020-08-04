@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Excellent Graduates in Shanghai (Top 5%)
+----------
+**Jun. 2020**
+
+Honor bestowed on excellent graduates from universities in Shanghai
+
 A-level Outstanding Scholarship of Shanghai Jiaotong University (Top 1%)
 ----------
 **Nov. 2019**

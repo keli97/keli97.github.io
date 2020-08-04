@@ -18,7 +18,7 @@ Master Distinguished Lecture, SJTU
 
 Development Program for Excellent Student of SJTU
 ----------
-**Group Leader: Apr. 2017 - Present**
+**Group Leader: Apr. 2017 - Apr. 2018**
 
 * Organized various activities, such as lectures, speech contests, volunteer programs, and summer social activities for other students at SJTU to cultivate leadership and a sense of responsibility.
 * Awarded Advanced Individual Title in the 2018 Summer Social Practice of SJTU (Top 2%).
