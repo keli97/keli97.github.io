@@ -39,6 +39,7 @@ Research & Contests
   * Designed and implemented the first parallel downlink scheme for backscatter communication.
   * Proposed the parallel communication and control system under the broadcast mechanism in large-scale Internet of Things.
   * Verified the feasibility of my design on Keysight ADS, a simulation software, and on a PCB-based prototype.
+  * Click [here](http://keli97.github.io/files/Undergraduate_Thesis.pdf) to see my undergraduate thesis (in Chinese with two English abstracts).
 * **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU, Supervisor: Prof. Xiaofeng Gao*, Apr. 2018 - Jun. 2019
   * Designed an efficient service scheme transmitting Scalable Video Coding-based Adaptive Streaming (SVC-AS) in D2D communications; Proposed a fast D2D Multimedia Transmission Scheme based on the Minimum-Degree Spanning Tree (MDST) algorithm with an acceptable running time.
   * Evaluated the performance and efficiency of the scheme using a real-world dataset based on NS2, where it outperformed the baseline scheme FlashLinQ in all areas.
