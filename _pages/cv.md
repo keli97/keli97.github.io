@@ -14,13 +14,14 @@ redirect_from:
 
 Education
 ======
+* *Incoming Ph.D. Student* in Information Science, School of Computing and Information Science, **Cornell University**, Advisor: Professor Cheng Zhang, Jan. 2021 - Aug. 2026 (Expected)
 * *B.S.* in Information Engineering, School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University (SJTU)**,  Sept. 2016 - Jul. 2020
   * Overall GPA: 91.41/100 (Rank 3/158)
   * Major GPA: 91.16/100 (Rank 5/158)
   * Relevant Courses: Calculus (89), Linear Algebra (90), Thinking and Approach of Programming (93), Discrete Mathematics (96), Probability and Statistics (96), Data Structure (93), ARM Embedded Systems and its Experiments (96), Computer Network (90), Principles and Experiments of Communications (99), Digital Signal Processing (AI) (92), Fundamentals of Communication Circuits (99), Machine Learning (AI) (93), Intelligent Internet of Things (96)
 * *Summer Intern* in Electrical and Computer Engineering, **Carnegie Mellon University (CMU)**, Supervisor: Professor Swarun Kumar, Jul. 2019 - Sept. 2019
   * Proposed TagAttack, a system that builds the first near-field MIMO technique which can largely extend the NFC communication and designed a bunch of MIMO coils which consist of printed circuit copper and capacitors.
-  * Submitted a paper based on the NFC project to the journal IMWUT 2020.
+  * Submitted a paper based on the NFC project to the journal IPSN 2021.
   * Click [here](https://keli97.github.io/files/Recoil_poster.pdf) to see a poster summarizing my work at CMU.
 * *Senior High School* at **Jiangsu Suzhou Experimental Middle School**, Sept. 2013 - Jun. 2016.
   * Ranked Second of Senior High School in National College Entrance Examination
@@ -34,10 +35,14 @@ Publications
 
 Research & Contests
 ======
-* **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU*, Apr. 2018 - Jun. 2019
+* **Design and Implementation of Broadcast Mechanism in Large-Scale Internet of Things**, *Undergraduate Thesis at SJTU, Supervisor: Prof. Xiaohua Tian*, Sept. 2019 – Jun. 2020
+  * Designed and implemented the first parallel downlink scheme for backscatter communication.
+  * Proposed the parallel communication and control system under the broadcast mechanism in large-scale Internet of Things.
+  * Verified the feasibility of my design on Keysight ADS, a simulation software, and on a PCB-based prototype.
+* **A Fast Approximation for SVC-Based Adaptive Streaming Network in D2D Communications**, *Research Assistant at Shanghai Key Laboratory of Scalable Computing and Systems, SJTU, Supervisor: Prof. Xiaofeng Gao*, Apr. 2018 - Jun. 2019
   * Designed an efficient service scheme transmitting Scalable Video Coding-based Adaptive Streaming (SVC-AS) in D2D communications; Proposed a fast D2D Multimedia Transmission Scheme based on the Minimum-Degree Spanning Tree (MDST) algorithm with an acceptable running time.
   * Evaluated the performance and efficiency of the scheme using a real-world dataset based on NS2, where it outperformed the baseline scheme FlashLinQ in all areas.
-* **Crowdsourcing Task Assignment Strategy and Optimization Based on Social Network**, *The 18th Innovation and Practice Plan for Undergraduates of SJTU*, Nov. 2018 - Dec. 2019
+* **Crowdsourcing Task Assignment Strategy and Optimization Based on Social Network**, *The 18th Innovation and Practice Plan for Undergraduates of SJTU, Supervisor: Prof. Xiaofeng Gao*, Nov. 2018 - Dec. 2019
   * Optimized the task assignment scheme in spatial crowdsourcing and proposed efficient truth inference algorithms.
   * Measured the fairness of the whole system using Jain's Fairness Index after a preliminary experiment.
   * Processed the data and conducted experiments on online crowdsourcing platforms.
