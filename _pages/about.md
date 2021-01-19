@@ -20,6 +20,7 @@ redirect_from:
 
 Update news
 ------
+* Jan. 2021: Check out our Near-field Communication (NFC) based localization system that allows ordinary surfaces to locate surrounding objects at high accuracy in the near-field, at [IPSN 2021](https://ipsn.acm.org/2021).
 * Aug. 2020: I start to work with Prof. Cheng Zhang as a new Ph.D. student at his [Smart Computer Interfaces for Future Interactions (SciFi) lab](https://www.scifilab.org/) of Cornell. Because of many reasons, I have deferred my Ph.D. admission to the Spring 2021 semester.
 * Jul. 2020: I receive a Bachelor's degree in Information Engineering from SJTU, honored with Outstanding Graduates in Shanghai (Top 5%).
 * Sept. 2019: I am honored to join the IIOT Research Center and work on the backscatter project for my undergraduate thesis, advised by Prof. Xiaohua Tian.
