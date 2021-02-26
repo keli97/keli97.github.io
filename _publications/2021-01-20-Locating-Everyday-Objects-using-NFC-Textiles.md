@@ -6,7 +6,7 @@ excerpt: 'May 18–21, 2021, Nashville, Tennessee, USA. Keyword: Near Field Comm
 date: 2021-01-20
 venue: 'The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)'
 paperurl: 'http://keli97.github.io/files/Locating-Everyday-Objects-using-NFC-Textiles.pdf'
-citation: 'Jingxian Wang, Junbo Zhang, **Ke Li**, Chengfeng Pan, Carmel Majidi and Swarun Kumar. (2021). &quot;Locating Everyday Objects using NFC Textiles.&quot; <i>The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)</i>. Pages 1–12.'
+citation: 'Jingxian Wang, Junbo Zhang, <u>Ke Li</u>, Chengfeng Pan, Carmel Majidi and Swarun Kumar. (2021). &quot;Locating Everyday Objects using NFC Textiles.&quot; <i>The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)</i>. Pages 1–12.'
 ---
 May 18–21, 2021, Nashville, Tennessee, USA  
 Keyword: Near Field Communication, Localization, Textile Coils, Beamforming
