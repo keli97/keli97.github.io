@@ -17,6 +17,6 @@ Keyword: Near Field Communication, Localization, Textile Coils, Beamforming
 
 [Download paper here](http://keli97.github.io/files/Locating-Everyday-Objects-using-NFC-Textiles.pdf)
 
-[Watch demo Video here](https://www.youtube.com/watch?v=Ieil0NQlk_M&t=1s)
+[Watch demo video here](https://www.youtube.com/watch?v=Ieil0NQlk_M&t=1s)
 
 Recommended citation: Jingxian Wang, Junbo Zhang, <u>Ke Li</u>, Chengfeng Pan, Carmel Majidi and Swarun Kumar. (2021). &quot;Locating Everyday Objects using NFC Textiles.&quot; <i>The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)</i>. Pages 1–12.
