@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* *Incoming Ph.D. Student* in Information Science, School of Computing and Information Science, **Cornell University**, Advisor: Professor Cheng Zhang, Jan. 2021 - Aug. 2026 (Expected)
+* *Ph.D. Student* in Information Science, School of Computing and Information Science, **Cornell University**, Advisor: Professor Cheng Zhang, Jun. 2021 - Aug. 2026 (Expected)
 * *B.S.* in Information Engineering, School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University (SJTU)**,  Sept. 2016 - Jul. 2020
   * Overall GPA: 91.41/100 (Rank 3/158)
   * Major GPA: 91.16/100 (Rank 5/158)

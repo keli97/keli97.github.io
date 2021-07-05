@@ -11,8 +11,8 @@ redirect_from:
 
 Cornell University
 
-107 Hoy Rd, Ithaca, NY 14853, USA
+Gates Hall Room 239, 107 Hoy Rd, Ithaca, NY 14853, USA
 
 Email: kl975 \[at\] cornell.edu
 
-Call: +86 132-6290-5743
+Call: +1 607-262-2020
