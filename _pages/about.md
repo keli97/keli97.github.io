@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![avatar](<img src="https://keli97.github.io/files/cv_header.jpeg" alt="drawing" width="200"/>)
+![avatar](https://keli97.github.io/files/cv_header.jpeg = 1000x)
 
 * I am currently a first year Ph.D. student in School of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and HCI.
 
