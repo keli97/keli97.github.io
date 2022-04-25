@@ -20,7 +20,7 @@ redirect_from:
 
 Update news
 ------
-* Apr. 2022: EarIO is accpeted by IMWUT (February 2022), which presents a low-power and minimally-obtrusive earable that can track facial expressions continuously based on acoustic sensing.
+* Apr. 2022: EarIO is accpeted by IMWUT (February 2022) pending minor revisions, which presents a low-power and minimally-obtrusive earable that can track facial expressions continuously based on acoustic sensing.
 * Jun. 2021: I start to work with Prof. Cheng Zhang as a first year Ph.D. student in his [Smart Computer Interfaces for Future Interactions (SciFi) lab](https://www.scifilab.org/) at Cornell University.
 * May 2021: [NFC Textiles](https://keli97.github.io/publication/2021-01-20-Locating-Everyday-Objects-using-NFC-Textiles) wins Best Paper Award at IPSN 2021!
 * Jan. 2021: Check out [Near-field Communication (NFC) Textiles](https://keli97.github.io/publication/2021-01-20-Locating-Everyday-Objects-using-NFC-Textiles) that allows ordinary surfaces to locate surrounding objects at high accuracy in the near-field, at IPSN 2021.
