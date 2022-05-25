@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Nominated for a 2021-2022 Outstanding Teaching Award
+----------
+**May 2022**
+
+Honor bestowed on outstanding PhD teaching assistants in Information Science at Cornell
+
 Outstanding Graduates in Shanghai (Top 5%)
 ----------
 **Jun. 2020**
