@@ -3,7 +3,7 @@ title: "EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking De
 collection: publications
 permalink: /publication/2022-05-25-EarIO-A-Low-power-Acoustic-Sensing-Earable-for-Continuously-Tracking-Detailed-Facial-Movements
 excerpt: 'October 08–13, 2022, Online. Keyword: Facial expression reconstruction, Acoustic sensing, Low-power, Deep learning'
-date: 2021-05-25
+date: 2022-05-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp ’22'
 paperurl: 'https://doi.org/10.1145/3534621'
 citation: '<u>Ke Li</u>, Ruidong Zhang, Bo Liang, François Guimbretière and Cheng Zhang. 2022. EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements. <i>The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp ’22</i>, Vol. 6, No. 2, Article 62 (June 2022), 24 pages.'
