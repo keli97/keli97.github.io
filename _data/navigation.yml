@@ -10,7 +10,10 @@ main:
     url: https://keli97.github.io/teaching/
 
   - title: "Awards&Honors"
-    url: https://keli97.github.io/awards/    
+    url: https://keli97.github.io/awards/
+
+#  - title: "Mentorship"
+#    url: https://keli97.github.io/mentorship/
 
   - title: "Activities&Leadership"
     url: https://keli97.github.io/activities/ 
