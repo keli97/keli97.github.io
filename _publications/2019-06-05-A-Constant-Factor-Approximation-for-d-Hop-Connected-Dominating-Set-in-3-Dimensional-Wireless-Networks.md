@@ -16,4 +16,4 @@ Keyword: Wireless Sensor Network, d-CDS, Spanning Tree, Cluster, Distributed Alg
 
 [Download paper here](https://ieeexplore.ieee.org/document/8765348)
 
-Recommended citation: <u>Ke Li</u>, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. A Constant Factor Approximation for d-Hop Connected Dominating Set in 3-Dimensional Wireless Network. <i>IEEE Transactions on Wireless Communications (TWC)</i>, 18(9): pp. 4357-4367.
+<!--Recommended citation: <u>Ke Li</u>, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. A Constant Factor Approximation for d-Hop Connected Dominating Set in 3-Dimensional Wireless Network. <i>IEEE Transactions on Wireless Communications (TWC)</i>, 18(9): pp. 4357-4367.-->

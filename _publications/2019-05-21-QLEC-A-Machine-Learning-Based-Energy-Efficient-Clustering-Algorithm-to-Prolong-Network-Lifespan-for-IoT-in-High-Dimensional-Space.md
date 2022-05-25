@@ -18,4 +18,4 @@ Keyword: IoT, Energy-Efficient Clustering, Q-learning, Lifespan-Extended Network
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3337821.3337926)
 
-Recommended citation: <u>Ke Li</u>, Haowei Huang, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. QLEC: A Machine-Learning-Based Energy-Efficient Clustering Algorithm to Prolong Network Lifespan for IoT in High-Dimensional Space. <i>The 48th International Conference on Parallel Processing (ICPP)</i>, Article No. 105, Pages 1–10.
+<!--Recommended citation: <u>Ke Li</u>, Haowei Huang, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. QLEC: A Machine-Learning-Based Energy-Efficient Clustering Algorithm to Prolong Network Lifespan for IoT in High-Dimensional Space. <i>The 48th International Conference on Parallel Processing (ICPP)</i>, Article No. 105, Pages 1–10.-->
