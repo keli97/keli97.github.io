@@ -10,7 +10,7 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header.jpeg)
 
-* I am currently a first year Ph.D. student in School of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and HCI.
+* I am currently a Ph.D. student in School of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and HCI.
 
 * I graduated with a Bachelor's Degree in School of Electronic Information and Electrical Engineering from Shanghai Jiao Tong University (SJTU), P.R. China. In my sophomore year, I joined [Advanced Network Laboratory](http://anl.sjtu.edu.cn/) as a research assistant, advised by [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen/) and [Prof. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). During the summer vacation of my junior year, I went to the Department of Electrical and Computer Engineering at Carnegie Mellon University (CMU) and became a summer intern under the guidance of [Prof. Swarun Kumar](http://www.swarunkumar.com/). In my senior year, I joined [Intelligent Internet of Things (IIOT) Research Center](http://iiot.sjtu.edu.cn/index.html) to complete my graduation thesis with the supervisor [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/).
 
@@ -20,10 +20,10 @@ redirect_from:
 
 Update news
 ------
+* Jul. 2022: [EarIO](https://keli97.github.io/publication/2022-05-25-EarIO-A-Low-power-Acoustic-Sensing-Earable-for-Continuously-Tracking-Detailed-Facial-Movements) is published in IMWUT/UbiComp (July 2022), which presents a low-power and minimally-obtrusive earable that can track facial expressions continuously based on acoustic sensing.
 * May 2022: I am honored to be nominated for a 2021-2022 Outstanding Teaching Award in Information Science at Cornell.
-* Apr. 2022: EarIO is accpeted by IMWUT (February 2022) pending minor revisions, which presents a low-power and minimally-obtrusive earable that can track facial expressions continuously based on acoustic sensing.
 * Jun. 2021: I start to work with Prof. Cheng Zhang as a first year Ph.D. student in his [Smart Computer Interfaces for Future Interactions (SciFi) lab](https://www.scifilab.org/) at Cornell University.
-* May 2021: [NFC Textiles](https://keli97.github.io/publication/2021-01-20-Locating-Everyday-Objects-using-NFC-Textiles) wins Best Paper Award at IPSN 2021!
+* May 2021: NFC Textiles wins Best Paper Award at IPSN 2021!
 * Jan. 2021: Check out [Near-field Communication (NFC) Textiles](https://keli97.github.io/publication/2021-01-20-Locating-Everyday-Objects-using-NFC-Textiles) that allows ordinary surfaces to locate surrounding objects at high accuracy in the near-field, at IPSN 2021.
 * Jul. 2020: I receive a Bachelor's degree in Information Engineering from SJTU, honored with Outstanding Graduates in Shanghai (Top 5%).
 * Sept. 2019: I am honored to join the IIOT Research Center and work on the backscatter project for my undergraduate thesis, advised by Prof. Xiaohua Tian.
