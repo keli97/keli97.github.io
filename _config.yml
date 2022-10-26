@@ -86,7 +86,7 @@ author:
   location         : "Ithaca, NY, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=n2Qo2e4AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F5L69tV4BToyyAYiIaSkeav6D1dj5A45gwy1daJGb1O6pXF8BA1kJYEbiSJzIkkM9Y1lQiS26q_GcWP2m85PBxbGEyUw_Iv-qnPCmxVoon7LwLqLyk"
   email            : "kl975@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ke-li-41663b201/"
   orcid            : "https://orcid.org/0000-0002-4208-7904"
   pinterest        :
   soundcloud       :
