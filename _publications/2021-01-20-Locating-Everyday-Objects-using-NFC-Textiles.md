@@ -12,7 +12,7 @@ May 18–21, 2021, Nashville, Tennessee, USA
 Keyword: Near Field Communication, Localization, Textile Coils, Beamforming
 
 <figure>
-  <img src="https://keli97.github.io/files/textilesense.png" alt="Trulli" style="width:50%" class="center">
+  <center><img src="https://keli97.github.io/files/textilesense.png" alt="Trulli" style="width:50%"></center>
 </figure>
 
 This paper builds a Near-field Communication (NFC) based localization system that allows ordinary surfaces to locate surrounding objects with high accuracy in the near-field. While there is rich prior work on device-free localization using far-field wireless technologies, the near-field is less explored. Prior work in this space operates at extremely small ranges (a few centimeters), leading to designs that sense close proximity rather than location.

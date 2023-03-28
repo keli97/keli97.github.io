@@ -14,7 +14,7 @@ September 11–15, 2022, Atlanta, USA and Cambridge, UK
 Keyword: Facial expression reconstruction, Acoustic sensing, Low-power, Deep learning
 
 <figure>
-  <img src="https://keli97.github.io/files/eario.png" alt="Trulli" style="width:100%" class="center">
+    <center><img src="https://keli97.github.io/files/eario.png" alt="Trulli" style="width:100%" class="center"></center>
 </figure>
 
 This paper presents EarIO, an AI-powered acoustic sensing technology that allows an earable (e.g., earphone) to continuously track facial expressions using two pairs of microphone and speaker (one on each side), which are widely available in commodity earphones. It emits acoustic signals from a speaker on an earable towards the face. Depending on facial expressions, the muscles, tissues, and skin around the ear would deform differently, resulting in unique echo profiles in the reflected signals captured by an on-device microphone. These received acoustic signals are processed and learned by a customized deep learning pipeline to continuously infer the full facial expressions represented by 52 parameters captured using a TruthDepth camera. Compared to similar technologies, it has significantly lower power consumption, as it can sample at 86 Hz with a power signature of 154 mW. A user study with 16 participants under three different scenarios, showed that EarIO can reliably estimate the detailed facial movements when the participants were sitting, walking or after remounting the device. Based on the encouraging results, we further discuss the potential opportunities and challenges on applying EarIO on future ear-mounted wearables.
