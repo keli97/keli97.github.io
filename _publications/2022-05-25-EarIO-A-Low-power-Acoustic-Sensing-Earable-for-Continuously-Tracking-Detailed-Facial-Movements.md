@@ -17,6 +17,8 @@ This paper presents EarIO, an AI-powered acoustic sensing technology that allows
 
 [Download paper here](https://doi.org/10.1145/3534621)
 
-[Watch demo video here](https://youtu.be/vy7uCH-PpaE)
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/vy7uCH-PpaE">
+</iframe>
 
 <!--Recommended citation: <u>Ke Li</u>, Ruidong Zhang, Bo Liang, François Guimbretière and Cheng Zhang. 2022. EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements. <i>The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp ’22</i>, Vol. 6, No. 2, Article 62 (June 2022), 24 pages.-->

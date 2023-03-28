@@ -21,7 +21,6 @@ We propose TextileSense, a near-field beamforming system which can track everyda
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3412382.3458254)
 
-Watch demo video here
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/Ieil0NQlk_M">
 </iframe>
