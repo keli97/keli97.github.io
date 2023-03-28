@@ -23,7 +23,7 @@ We propose TextileSense, a near-field beamforming system which can track everyda
 
 Watch demo video here
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/Ieil0NQlk_M&t=1s">
+src="https://www.youtube.com/embed/Ieil0NQlk_M">
 </iframe>
 
 <!--Recommended citation: Jingxian Wang (Co-Primary), Junbo Zhang (Co-Primary), <u>Ke Li</u>, Chengfeng Pan, Carmel Majidi and Swarun Kumar. 2021. Locating Everyday Objects using NFC Textiles. <i>The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)</i>, Pages 1–12.-->
