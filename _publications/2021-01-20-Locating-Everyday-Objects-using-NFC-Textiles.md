@@ -11,6 +11,10 @@ citation: 'Jingxian Wang (Co-Primary), Junbo Zhang (Co-Primary), <u>Ke Li</u>, C
 May 18–21, 2021, Nashville, Tennessee, USA  
 Keyword: Near Field Communication, Localization, Textile Coils, Beamforming
 
+<figure>
+  <img src="https://keli97.github.io/files/textilesense.png" alt="Trulli" style="width:60%">
+</figure>
+
 This paper builds a Near-field Communication (NFC) based localization system that allows ordinary surfaces to locate surrounding objects with high accuracy in the near-field. While there is rich prior work on device-free localization using far-field wireless technologies, the near-field is less explored. Prior work in this space operates at extremely small ranges (a few centimeters), leading to designs that sense close proximity rather than location.
 
 We propose TextileSense, a near-field beamforming system which can track everyday objects made of conductive materials (e.g., a human hand) even if they are a few tens of centimeters away. We use multiple flexible NFC coil antennas embedded in ordinary and irregularly shaped surfaces we interact with in smart environments - furniture, carpets, etc. We design and fabricate specialized textile coils woven into the fabric of the furniture and easily hidden by acrylic paint. We then develop a near-field blind beamforming algorithm to efficiently detect surrounding objects, and use a data-driven approach to further infer their location. A detailed experimental evaluation of TextileSense shows an average accuracy of 3.5 cm in tracking the location of objects of interest within a few tens of centimeters from the furniture.
