@@ -16,6 +16,6 @@ In the past few years, wireless sensor networks (WSNs) have been widely used in 
 <!--Proposed a distributed approximation algorithm and proved its approximation ratio.-->
 <!--Conducted numerical experiments with 100 nodes randomly distributed in a three-dimensional Wireless Sensor Network (WSN) to analyze and prove the efficiency of the algorithm.-->
 
-[Download paper here](https://ieeexplore.ieee.org/document/8765348)
+<!--[Download paper here](https://ieeexplore.ieee.org/document/8765348)-->
 
 <!--Recommended citation: <u>Ke Li</u>, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. A Constant Factor Approximation for d-Hop Connected Dominating Set in 3-Dimensional Wireless Network. <i>IEEE Transactions on Wireless Communications (TWC)</i>, 18(9): pp. 4357-4367.-->

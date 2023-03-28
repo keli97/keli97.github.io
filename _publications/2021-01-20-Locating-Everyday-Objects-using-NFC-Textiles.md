@@ -19,7 +19,7 @@ We propose TextileSense, a near-field beamforming system which can track everyda
 <!--The system achieved few centimeter-accurate location tracking of both tagged and untagged objects in proximity.-->
 <!--The approach achieved an overall range of 20 cm of location tracking from the textile NFC reader.-->
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3412382.3458254)
+<!--[Download paper here](https://dl.acm.org/doi/10.1145/3412382.3458254)-->
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/Ieil0NQlk_M">

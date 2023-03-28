@@ -18,6 +18,6 @@ With the emergence of Internet of Things (IoT), many battery-operated sensors ar
 <!--Solved the Energy-Efficient Clustering Problem (EECP), which is an NP-Complete problem in the running time O(kX), where k is the cluster number and X is the number of updates that Q-learning needs to converge.-->
 <!--Conducted experiments with the algorithm and outperformed k-means clustering and an FCM-based algorithm in terms of network lifespan, packet delivery rate, and transmission latency.-->
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3337821.3337926)
+<!--[Download paper here](https://dl.acm.org/doi/10.1145/3337821.3337926)-->
 
 <!--Recommended citation: <u>Ke Li</u>, Haowei Huang, Xiaofeng Gao, Fan Wu and Guihai Chen. 2019. QLEC: A Machine-Learning-Based Energy-Efficient Clustering Algorithm to Prolong Network Lifespan for IoT in High-Dimensional Space. <i>The 48th International Conference on Parallel Processing (ICPP)</i>, Article No. 105, Pages 1–10.-->
