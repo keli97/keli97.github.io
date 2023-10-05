@@ -3,8 +3,7 @@ title: "HPSpeech: Silent Speech Interface for Commodity Headphones"
 collection: publications
 permalink: /publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones
 excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Silent Speech, Acoustic Sensing, Headphones, Commodity-off-the-
-shelf (COTS)
-supervision'
+shelf (COTS)'
 date: 2023-10-08
 venue: 'The Proceedings of the International Symposium on Wearable Computers (ISWC)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3594738.3611365'

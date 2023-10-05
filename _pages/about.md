@@ -20,7 +20,7 @@ redirect_from:
 
 * Click [here](https://keli97.github.io/files/KeLi_CV.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](https://keli97.github.io/contact/).
 
-Update news
+Recent News
 ------
 * Sept. 2023: [PoseSonic](https://keli97.github.io/publication/2023-09-27-PoseSonic-3D-Upper-Body-Pose-Estimation-Through-Egocentric-Acoustic-Sensing-on-Smartglasses) is published in IMWUT/UbiComp (September 2023), which introduces an acoustic-sensing-based solution to tracking upper body poses continuously.
 * Jul. 2023: [HPSpeech](https://keli97.github.io/publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones) and [EchoNose](https://keli97.github.io/publication/2023-10-08-EchoNose-Sensing-Mouth-Breathing-and-Tongue-Gestures-inside-Oral-Cavity-using-a-Non-contact-Nose-Interface) are both accpeted by ISWC 2023.
