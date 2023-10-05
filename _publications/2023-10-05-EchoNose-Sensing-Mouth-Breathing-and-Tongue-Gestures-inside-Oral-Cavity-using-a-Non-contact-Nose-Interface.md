@@ -1,7 +1,7 @@
 ---
 title: "EchoNose: Sensing Mouth, Breathing and Tongue Gestures inside Oral Cavity using a Non-contact Nose Interface"
 collection: publications
-permalink: /publication/2023-10-08-EchoNose-Sensing-Mouth-Breathing-and-Tongue-Gestures-inside-Oral-Cavity-using-a-Non-contact-Nose-Interface
+permalink: /publication/2023-10-05-EchoNose-Sensing-Mouth-Breathing-and-Tongue-Gestures-inside-Oral-Cavity-using-a-Non-contact-Nose-Interface
 excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Nose Interface, Tongue Gestures, Breathing Patterns, Silent Speech, Acoustic Sensing'
 date: 2023-10-08
 venue: 'The Proceedings of the International Symposium on Wearable Computers (ISWC)'
