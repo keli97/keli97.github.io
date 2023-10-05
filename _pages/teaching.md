@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-INFO 4320/5321: Introduction to Rapid Prototyping and Physical Computing (Fall 2022, Spring 2023)
+INFO 4320/5321: Introduction to Rapid Prototyping and Physical Computing (Fall 2022, Spring 2023, Fall 2023)
 ----------
 **Teaching Assistant at Cornell University, Instructor: Prof. Cheng Zhang**
 
