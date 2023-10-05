@@ -1,7 +1,7 @@
 ---
 title: "PoseSonic: 3D Upper Body Pose Estimation Through Egocentric Acoustic Sensing on Smartglasses"
 collection: publications
-permalink: /publication/2023-09-27-PoseSonic-3D-Upper-Body-Pose-Estimation-Through-Egocentric-Acoustic-Sensing-on-Smartglasses
+permalink: /publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones
 excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Human Pose Estimation, Acoustic Sensing, Smart/AR Glasses, Deep Learning, Cross-Modal Supervision'
 date: 2023-09-27
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
