@@ -27,7 +27,7 @@ Recent News
 * Mar. 2023: [EchoSpeech](https://keli97.github.io/publication/2023-03-01-EchoSpeech-Continuous-Silent-Speech-Recognition-on-Minimally-obtrusive-Eyewear-Powered-by-Acoustic-Sensing) is accepted for publication by CHI 2023, which proposes a solution to continuous silent speech recognition on eyewear based on acoustic sensing.
 * Jul. 2022: [EarIO](https://keli97.github.io/publication/2022-05-25-EarIO-A-Low-power-Acoustic-Sensing-Earable-for-Continuously-Tracking-Detailed-Facial-Movements) is published in IMWUT/UbiComp (July 2022), which presents a low-power and minimally-obtrusive earable that can track facial expressions continuously based on acoustic sensing.
 * May 2022: I am honored to be nominated for a 2021-2022 Outstanding Teaching Award in Information Science at Cornell.
-* Jun. 2021: I start to work with Prof. Cheng Zhang as a first year Ph.D. student in his [Smart Computer Interfaces for Future Interactions (SciFi) lab](https://www.scifilab.org/) at Cornell University.
+* Jul. 2021: I start to work with Prof. Cheng Zhang as a first year Ph.D. student in his [Smart Computer Interfaces for Future Interactions (SciFi) lab](https://www.scifilab.org/) at Cornell University.
 * May 2021: NFC Textiles wins Best Paper Award and Best Presentation Award at IPSN 2021!
 * Jan. 2021: Check out [Near-field Communication (NFC) Textiles](https://keli97.github.io/publication/2021-01-20-Locating-Everyday-Objects-using-NFC-Textiles) that allows ordinary surfaces to locate surrounding objects at high accuracy in the near-field, at IPSN 2021.
 * Jul. 2020: I receive a Bachelor's degree in Information Engineering from SJTU, honored with Outstanding Graduates in Shanghai (Top 5%).
