@@ -6,7 +6,7 @@ excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Silent Speech, Acoustic 
 date: 2023-10-08
 venue: 'The Proceedings of the International Symposium on Wearable Computers (ISWC)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3594738.3611365'
-citation: 'Ruidong Zhang, Hao Chen, Devansh Agarwal, Richard Jin, <u>Ke Li</u>, François Guimbretière, and Cheng Zhang. 2023. HPSpeech: Silent Speech Interface for Commodity Headphones. In <i>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany</i>. ACM, New York, NY, USA, 60-65.'
+citation: 'Ruidong Zhang, Hao Chen, Devansh Agarwal, Richard Jin, <u>Ke Li</u>, François Guimbretière, and Cheng Zhang. 2023. HPSpeech: Silent Speech Interface for Commodity Headphones. In <i>Proceedings of the International Symposium on Wearable Computers (ISWC '23), April 23–28, 2023, Hamburg, Germany</i>. ACM, New York, NY, USA, 60-65.'
 ---
 Selected Media Coverage:
 
