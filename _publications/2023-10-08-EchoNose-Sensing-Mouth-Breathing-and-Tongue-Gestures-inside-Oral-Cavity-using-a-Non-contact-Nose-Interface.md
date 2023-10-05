@@ -14,7 +14,7 @@ October 8-12, 2023, Cancún, Mexico
 Keyword: Nose Interface, Tongue Gestures, Breathing Patterns, Silent Speech, Acoustic Sensing
 
 <figure>
-    <center><img src="https://keli97.github.io/files/echonose.png" alt="Trulli" style="width:80%" class="center"></center>
+    <center><img src="https://keli97.github.io/files/echonose.png" alt="Trulli" style="width:100%" class="center"></center>
 </figure>
 
 Sensing movements and gestures inside the oral cavity has been a long-standing challenge for the wearable research community. This paper introduces EchoNose, a novel nose interface that explores a unique sensing approach to recognize gestures related to mouth, breathing, and tongue by analyzing the acoustic signal reflections inside the nasal and oral cavities. The interface incorporates a speaker and a microphone placed at the nostrils, emitting inaudible acoustic signals and capturing the corresponding reflections. These received signals were processed using a customized data processing and machine learning pipeline, enabling the distinction of 16 gestures involving speech, tongue, and breathing. A user study with 10 participants demonstrates that EchoNose achieves an average accuracy of 93.7% in recognizing these 16 gestures. Based on these promising results, we discuss the potential opportunities and challenges associated with applying this innovative nose interface in various future applications.
