@@ -1,5 +1,5 @@
 ---
-title: "PoseSonic: 3D Upper Body Pose Estimation Through Egocentric Acoustic Sensing on Smartglasses"
+title: "HPSpeech: Silent Speech Interface for Commodity Headphones"
 collection: publications
 permalink: /publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones
 excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Human Pose Estimation, Acoustic Sensing, Smart/AR Glasses, Deep Learning, Cross-Modal Supervision'
