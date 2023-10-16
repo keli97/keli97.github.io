@@ -22,6 +22,7 @@ redirect_from:
 
 Recent News
 ------
+* Oct. 2023: HPSpeech is awarded the Best Paper Honorable Mention at ISWC 2023!
 * Sept. 2023: [PoseSonic](https://keli97.github.io/publication/2023-09-27-PoseSonic-3D-Upper-Body-Pose-Estimation-Through-Egocentric-Acoustic-Sensing-on-Smartglasses) is published in IMWUT/UbiComp (September 2023), which introduces an acoustic-sensing-based solution to tracking upper body poses continuously.
 * Jul. 2023: [HPSpeech](https://keli97.github.io/publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones) and [EchoNose](https://keli97.github.io/publication/2023-10-08-EchoNose-Sensing-Mouth-Breathing-and-Tongue-Gestures-inside-Oral-Cavity-using-a-Non-contact-Nose-Interface) are both accpeted by ISWC 2023.
 * Mar. 2023: [EchoSpeech](https://keli97.github.io/publication/2023-03-01-EchoSpeech-Continuous-Silent-Speech-Recognition-on-Minimally-obtrusive-Eyewear-Powered-by-Acoustic-Sensing) is accepted for publication by CHI 2023, which proposes a solution to continuous silent speech recognition on eyewear based on acoustic sensing.
