@@ -16,7 +16,7 @@ Presentation at the Cornell Computer System Lab (CSL)
 Presentation on *EarIO* as part of the research introduction of SciFi Lab
 
 <figure>
-    <center><img src="https://keli97.github.io/files/csl.jpg" alt="Trulli" style="width:80%" class="center"></center>
+    <center><img src="https://keli97.github.io/files/csl.JPG" alt="Trulli" style="width:80%" class="center"></center>
 </figure>
 
 UbiComp/ISWC 2022
@@ -26,5 +26,5 @@ UbiComp/ISWC 2022
 Presentation on *EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements*
 
 <figure>
-    <center><img src="https://keli97.github.io/files/ubicomp22.jpg" alt="Trulli" style="width:80%" class="center"></center>
+    <center><img src="https://keli97.github.io/files/ubicomp22.JPG" alt="Trulli" style="width:80%" class="center"></center>
 </figure>
