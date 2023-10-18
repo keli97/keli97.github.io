@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mentorship"
+title: "Talks & Service"
 permalink: /mentorship/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduates
+UbiComp/ISWC 2022
 ----------
-
+ssdsdsds
 
