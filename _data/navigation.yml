@@ -6,11 +6,8 @@ main:
   - title: "Publications"
     url: https://keli97.github.io/publications/
     
-  - title: "Talks"
+  - title: "Talks & Service"
     url: https://keli97.github.io/presentations/
-
-  - title: "Service"
-    url: https://keli97.github.io/service/
     
   - title: "Teaching"
     url: https://keli97.github.io/teaching/
@@ -18,8 +15,8 @@ main:
   - title: "Awards & Honors"
     url: https://keli97.github.io/awards/
 
-  - title: "Activities & Leadership"
-    url: https://keli97.github.io/activities/
+#  - title: "Activities & Leadership"
+#    url: https://keli97.github.io/activities/
     
   - title: "Personal Life"
     url: https://keli97.github.io/personal/
