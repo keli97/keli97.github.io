@@ -10,7 +10,7 @@ citation: 'Saif Mahmud, <u>Ke Li</u>, Guilin Hu, Hao Chen, Richard Jin, Ruidong 
 ---
 Selected Media Coverage:
 
-October 8-12, 2023, Cancún, Mexico
+October 8-12, 2023, Cancún, Mexico<br>
 Keyword: Human Pose Estimation, Acoustic Sensing, Smart/AR Glasses, Deep Learning, Cross-Modal
 
 <figure>

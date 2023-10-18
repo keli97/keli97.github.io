@@ -10,7 +10,7 @@ citation: 'Rujia Sun, Xiaohe Zhou, Benjamin Steeper, Ruidong Zhang, Sicheng Yin,
 ---
 Selected Media Coverage:
 
-October 8-12, 2023, Cancún, Mexico
+October 8-12, 2023, Cancún, Mexico<br>
 Keyword: Nose Interface, Tongue Gestures, Breathing Patterns, Silent Speech, Acoustic Sensing
 
 <figure>

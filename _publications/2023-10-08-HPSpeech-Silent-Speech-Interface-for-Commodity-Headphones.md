@@ -10,7 +10,9 @@ citation: 'Ruidong Zhang, Hao Chen, Devansh Agarwal, Richard Jin, <u>Ke Li</u>, 
 ---
 ***Best Paper Honorable Mention Award***
 
-October 8-12, 2023, Cancún, Mexico
+Selected Media Coverage:
+
+October 8-12, 2023, Cancún, Mexico<br>
 Keyword: Silent Speech, Acoustic Sensing, Headphones, Commodity-off-the-shelf (COTS)
 
 <figure>
