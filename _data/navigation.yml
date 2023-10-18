@@ -19,7 +19,10 @@ main:
     url: https://keli97.github.io/awards/
 
   - title: "Activities & Leadership"
-    url: https://keli97.github.io/activities/ 
+    url: https://keli97.github.io/activities/
+    
+  - title: "Personal Life"
+    url: https://keli97.github.io/personal/
     
   - title: "Contact"
     url: https://keli97.github.io/contact/ 
