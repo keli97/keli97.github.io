@@ -9,6 +9,7 @@ paperurl: 'https://dl.acm.org/doi/10.1145/3412382.3458254'
 citation: 'Jingxian Wang (Co-Primary), Junbo Zhang (Co-Primary), <u>Ke Li</u>, Chengfeng Pan, Carmel Majidi and Swarun Kumar. 2021. Locating Everyday Objects using NFC Textiles. <i>The 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)</i>, Pages 1–12.'
 ---
 ***Best Paper & Best Presentation Award***
+
 May 18–21, 2021, Nashville, Tennessee, USA  
 Keyword: Near Field Communication, Localization, Textile Coils, Beamforming
 
