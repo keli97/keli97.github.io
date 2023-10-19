@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
+
 In my spare time, I like playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
 
-<p align="center">
-  <img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
-  September 2023, US Open
-</p>
-
 <figure>
-    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center"></center>
-    <figcaption><center>September 2023, US Open</center></figcaption>
+    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>September 2023, US Open</figcaption></center>
 </figure>
 
 <figure>
