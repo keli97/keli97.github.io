@@ -28,6 +28,40 @@ In my spare time, I like playing all kinds of sports (tennis, basketball, rock c
 
 During holidays, I am enthusastic about traveling and exploring the world. Apart from my home country China, Thailand is my favorite country among all the countries I have visited.
 
+<figure>
+    <center><img src="https://keli97.github.io/files/life/mexico.jpeg" alt="Trulli" style="width:50%" class="center">
+    <figcaption>October 2023, Chichén Itzá, Mexico</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/qinghai.jpeg" alt="Trulli" style="width:50%" class="center">
+    <figcaption>July 2023, Caka Salt Lake, Qinghai, China</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/chicago.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>April, 2023, Chicago, USA</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/california.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>December 2021, California State Route 1, USA</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/singapore.JPG" alt="Trulli" style="width:50%" class="center">
+    <figcaption>May 2021, Singapore</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/korea.jpg" alt="Trulli" style="width:50%" class="center">
+    <figcaption>February 2020, Seoul, South Korea</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/thailand.jpg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>August 2017, Chiengmai, Thailand</figcaption></center>
+</figure>
 
 I am also a big fan of Nintendo Switch and play lots of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
 
