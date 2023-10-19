@@ -11,9 +11,14 @@ redirect_from:
 
 In my spare time, I like playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
 
+<p align="center">
+  <img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
+  September 2023, US Open
+</p>
+
 <figure>
-    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:40%" class="center"></center>
-    <center><figcaption>September 2023, US Open</figcaption></center>
+    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center"></center>
+    <figcaption><center>September 2023, US Open</center></figcaption>
 </figure>
 
 <figure>
@@ -32,6 +37,6 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
 I am also a big fan of Nintendo Switch and play lots of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/zelda.jpeg" alt="Trulli" style="width:40%" class="center"></center>
+    <center><img src="https://keli97.github.io/files/life/zelda.jpeg" alt="Trulli" style="width:30%" class="center"></center>
     <center><figcaption>The Legend of Zelda: Tears of the Kingdom</figcaption></center>
 </figure>
