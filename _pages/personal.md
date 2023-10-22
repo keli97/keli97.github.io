@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In my spare time, I like playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
+In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
 
 <figure>
     <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
@@ -29,7 +29,7 @@ In my spare time, I like playing all kinds of sports (tennis, basketball, rock c
 During holidays, I am enthusastic about traveling and exploring the world. Apart from my home country China, Thailand is my favorite country among all the countries I have visited.
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/mexico.jpeg" alt="Trulli" style="width:50%" class="center">
+    <center><img src="https://keli97.github.io/files/life/mexico.jpg" alt="Trulli" style="width:50%" class="center">
     <figcaption>October 2023, Chichén Itzá, Mexico</figcaption></center>
 </figure>
 
@@ -74,12 +74,12 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
 </figure>
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/japan.JPG" alt="Trulli" style="width:30%" class="center">
+    <center><img src="https://keli97.github.io/files/life/japan.JPG" alt="Trulli" style="width:50%" class="center">
     <figcaption>July 2014, Nara, Japan</figcaption></center>
 </figure>
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/taiwan.JPG" alt="Trulli" style="width:30%" class="center">
+    <center><img src="https://keli97.github.io/files/life/taiwan.JPG" alt="Trulli" style="width:50%" class="center">
     <figcaption>August 2013, Taiwan, China</figcaption></center>
 </figure>
 
@@ -89,7 +89,7 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
 </figure>
 
 
-I am also a big fan of Nintendo Switch and play lots of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
+I am also a big fan of Nintendo Switch and play all kinds of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
 
 <figure>
     <center><img src="https://keli97.github.io/files/life/zelda.jpeg" alt="Trulli" style="width:30%" class="center">
