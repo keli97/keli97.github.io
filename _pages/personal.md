@@ -89,7 +89,7 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
 </figure>
 
 
-I am also a big fan of Nintendo Switch and play all kinds of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
+I am also a big fan of Nintendo Switch and play a variety of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
 
 <figure>
     <center><img src="https://keli97.github.io/files/life/zelda.jpeg" alt="Trulli" style="width:30%" class="center">
