@@ -74,12 +74,12 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
 </figure>
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/japan.jpeg" alt="Trulli" style="width:50%" class="center">
+    <center><img src="https://keli97.github.io/files/life/japan.JPG" alt="Trulli" style="width:50%" class="center">
     <figcaption>July 2014, Nara, Japan</figcaption></center>
 </figure>
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/taiwan.jpeg" alt="Trulli" style="width:50%" class="center">
+    <center><img src="https://keli97.github.io/files/life/taiwan.JPG" alt="Trulli" style="width:50%" class="center">
     <figcaption>August 2013, Taiwan, China</figcaption></center>
 </figure>
 
