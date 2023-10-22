@@ -73,6 +73,22 @@ During holidays, I am enthusastic about traveling and exploring the world. Apart
     <figcaption>June 2016, Paris, France</figcaption></center>
 </figure>
 
+<figure>
+    <center><img src="https://keli97.github.io/files/life/japan.JPG" alt="Trulli" style="width:30%" class="center">
+    <figcaption>July 2014, Nara, Japan</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/taiwan.JPG" alt="Trulli" style="width:30%" class="center">
+    <figcaption>August 2013, Taiwan, China</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/beijing.jpg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>July 2001, Beijing, China</figcaption></center>
+</figure>
+
+
 I am also a big fan of Nintendo Switch and play lots of games on it for entertainment. Among all these games, The Legend of Zelda is the BEST game ever! 
 
 <figure>
