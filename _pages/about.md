@@ -23,8 +23,8 @@ redirect_from:
 Recent News
 ------
 * Feb. 2024: Ruidong and I are selected as finalists of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)!
-* Jan. 2024: EyeEcho has been conditionally accepted to CHI 2024.
-* Nov. 2023: GazeTrak has been conditionally accepted to MobiCom 2024.
+* Jan. 2024: [EyeEcho](https://keli97.github.io/publication/2024-1-18-EyeEcho-Continuous-and-Low-power-Facial-Expression-Tracking-on-Glasses) has been conditionally accepted to CHI 2024.
+* Nov. 2023: [GazeTrak](https://keli97.github.io/publication/2023-11-21-GazeTrak-Exploring-Acoustic-based-Eye-Tracking-on-a-Glass-Frame) has been conditionally accepted to MobiCom 2024.
 * Oct. 2023: HPSpeech is awarded the Best Paper Honorable Mention at ISWC 2023!
 * Sept. 2023: [PoseSonic](https://keli97.github.io/publication/2023-09-27-PoseSonic-3D-Upper-Body-Pose-Estimation-Through-Egocentric-Acoustic-Sensing-on-Smartglasses) is published in IMWUT/UbiComp (September 2023), which introduces an acoustic-sensing-based solution to tracking upper body poses continuously.
 * Jul. 2023: [HPSpeech](https://keli97.github.io/publication/2023-10-08-HPSpeech-Silent-Speech-Interface-for-Commodity-Headphones) and [EchoNose](https://keli97.github.io/publication/2023-10-08-EchoNose-Sensing-Mouth-Breathing-and-Tongue-Gestures-inside-Oral-Cavity-using-a-Non-contact-Nose-Interface) are both accpeted by ISWC 2023.
