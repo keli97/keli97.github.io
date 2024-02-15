@@ -22,7 +22,7 @@ redirect_from:
 
 Recent News
 ------
-* Feb. 2024: Ruidong and I are selected as finalists of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)!
+* Feb. 2024: Ruidong and I are selected as finalists of [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
 * Jan. 2024: [EyeEcho](https://keli97.github.io/publication/2024-1-18-EyeEcho-Continuous-and-Low-power-Facial-Expression-Tracking-on-Glasses) has been conditionally accepted to CHI 2024.
 * Nov. 2023: [GazeTrak](https://keli97.github.io/publication/2023-11-21-GazeTrak-Exploring-Acoustic-based-Eye-Tracking-on-a-Glass-Frame) has been conditionally accepted to MobiCom 2024.
 * Oct. 2023: HPSpeech is awarded the Best Paper Honorable Mention at ISWC 2023!
