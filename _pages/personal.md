@@ -29,7 +29,7 @@ In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock 
 During holidays, I am enthusastic about traveling and exploring the world. Apart from my home country China, Thailand is my favorite country among all the countries I have visited.
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/miami.jpg" alt="Trulli" style="width:50%" class="center">
+    <center><img src="https://keli97.github.io/files/life/miami.JPG" alt="Trulli" style="width:50%" class="center">
     <figcaption>December 2023, Miami, USA</figcaption></center>
 </figure>
 
