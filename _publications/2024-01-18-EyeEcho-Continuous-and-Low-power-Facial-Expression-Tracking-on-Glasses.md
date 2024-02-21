@@ -5,7 +5,7 @@ permalink: /publication/2024-01-18-EyeEcho-Continuous-and-Low-power-Facial-Expre
 excerpt: 'May 11-16, 2024, Honolulu, Hawaiʻi, USA. Keyword: Eye-mounted Wearable, Facial Expression Tracking, Acoustic Sensing, Low-power'
 date: 2024-01-18
 venue: 'The Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)'
-paperurl: ''
+paperurl: 'http://arxiv.org/abs/2402.12388'
 citation: '<u>Ke Li</u>, Ruidong Zhang, Siyuan Chen, Boao Chen, Mose Sakashita, François Guimbretière, and Cheng Zhang. 2024. EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses. In <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), May 11-16, 2024, Honolulu, Hawaiʻi, USA</i>. ACM, New York, NY, USA.'
 ---
 Selected Media Coverage:
