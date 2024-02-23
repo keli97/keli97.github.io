@@ -1,12 +1,12 @@
 ---
 title: "GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame"
 collection: publications
-permalink: /publication/2023-11-21-GazeTrak-Exploring-Acoustic-based-Eye-Tracking-on-a-Glass-Frame
+permalink: /publication/2024-02-23-GazeTrak-Exploring-Acoustic-based-Eye-Tracking-on-a-Glass-Frame
 excerpt: 'September 30-October 4, 2024, Washington, D.C., USA. Keyword: Eye Tracking, Acoustic Sensing, Smart Glasses, Low-power'
-date: 2023-11-21
-venue: 'The Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom)'
+date: 2024-02-23
+venue: 'The Annual International Conference on Mobile Computing and Networking (MobiCom)'
 paperurl: 'http://arxiv.org/abs/2402.14634'
-citation: '<u>Ke Li</u>, Ruidong Zhang, Boao Chen, Siyuan Chen, Sicheng Yin, Saif Mahmud, François Guimbretière, and Cheng Zhang. 2024. GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame. In <i>Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), September 30-October 4, 2024, Washington, D.C., USA</i>. ACM, New York, NY, USA.'
+citation: '<u>Ke Li</u>, Ruidong Zhang, Boao Chen, Siyuan Chen, Sicheng Yin, Saif Mahmud, Qikang Liang, François Guimbretière, and Cheng Zhang. 2024. GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame. In <i>The Annual International Conference on Mobile Computing and Networking (MobiCom), September 30-October 4, 2024, Washington, D.C., USA</i>. ACM, New York, NY, USA.'
 ---
 Selected Media Coverage:
 
