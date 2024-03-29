@@ -32,6 +32,8 @@ Presentation on *EarIO: A Low-power Acoustic Sensing Earable for Continuously Tr
 
 Service
 ----------
+**External Reviewer of IMWUT/UbiComp 2024**,
+Feb. 2024
 
 **External Reviewer of CHI 2024**,
 Oct. 2023
@@ -40,7 +42,7 @@ Oct. 2023
 May 2023
 
 **External Reviewer of IMWUT/UbiComp 2023**,
-Feb. 2023
+Feb. & Nov. 2023
 
 **External Reviewer of IMWUT/UbiComp 2022**,
 Nov. 2022
