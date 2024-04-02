@@ -8,7 +8,7 @@ venue: 'The Proceedings of the CHI Conference on Human Factors in Computing Syst
 paperurl: 'https://arxiv.org/abs/2401.17409'
 citation: 'Chi-Jung Lee (Co-Primary), Ruidong Zhang (Co-Primary), Devansh Agarwal, Tianhong Catherine Yu, Vipin Gunda, Oliver Lopez, James Kim, Sicheng Yin, Boao Dong, <u>Ke Li</u>, Mose Sakashita, François Guimbretière, and Cheng Zhang. 2024. EchoWrist: Continuous Hand Pose Tracking and Hand-Object Interaction Recognition Using Low-Power Active Acoustic Sensing On a Wristband. In <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), May 11-16, 2024, Honolulu, Hawaiʻi, USA</i>. ACM, New York, NY, USA.'
 ---
-Selected Media Coverage:
+Selected Media Coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2024/04/wristband-uses-echos-ai-track-hand-positions-vr-and-more)
 
 May 11-16, 2024, Honolulu, Hawaiʻi, USA<br>
 Keyword: Acoustic Sensing, Smartwatch
