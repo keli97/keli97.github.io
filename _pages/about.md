@@ -10,7 +10,7 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header.jpeg)
 
-* I am currently a third-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and HCI.
+* I am currently a third-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI.
 
 * I graduated with a Bachelor's Degree in School of Electronic Information and Electrical Engineering from Shanghai Jiao Tong University (SJTU), P.R. China. 
 
