@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+Qualcomm Innovation Fellowship 2024
+----------
+**Apr. 2024**
+
+Fellowship focused on recognizing, rewarding, and mentoring PhD students based on Qualcomm’s core values of innovation, execution, and teamwork
 
 Nominated for a 2021-2022 Outstanding Teaching Award
 ----------
