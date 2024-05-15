@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+CHI 2024
+----------
+**May 2024, Honolulu, HI**
+
+Presentation on *EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses*
+
+<figure>
+    <center><img src="https://keli97.github.io/files/chi24.jpg" alt="Trulli" style="width:80%" class="center"></center>
+</figure>
+
 Presentation at the Cornell Computer System Lab (CSL)
 ----------
 **Mar. 2023, Ithaca, NY**
