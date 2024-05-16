@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Presentation at Kawahara Laboratory, the University of Tokyo
+----------
+**May 2024, Tokyo, Japan**
+
+Research talk on [acoustic sensing around the body](https://www.akg.t.u-tokyo.ac.jp/archives/5076)
+
 CHI 2024
 ----------
 **May 2024, Honolulu, HI**
