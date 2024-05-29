@@ -12,6 +12,11 @@ redirect_from:
 In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
 
 <figure>
+    <center><img src="https://keli97.github.io/files/life/bpump.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>May 2024, B-pump Tokyo, the hardest climbing gym in the world</figcaption></center>
+</figure>
+
+<figure>
     <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
     <figcaption>September 2023, US Open</figcaption></center>
 </figure>
@@ -27,6 +32,16 @@ In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock 
 </figure>
 
 During holidays, I am enthusastic about traveling and exploring the world. Apart from my home country China, Thailand is my favorite country among all the countries I have visited.
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/tokyo.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>May 2024, Tokyo, Japan</figcaption></center>
+</figure>
+
+<figure>
+    <center><img src="https://keli97.github.io/files/life/hawaii.jpg" alt="Trulli" style="width:50%" class="center">
+    <figcaption>May 2024, Honolulu, USA</figcaption></center>
+</figure>
 
 <figure>
     <center><img src="https://keli97.github.io/files/life/miami.JPG" alt="Trulli" style="width:50%" class="center">
