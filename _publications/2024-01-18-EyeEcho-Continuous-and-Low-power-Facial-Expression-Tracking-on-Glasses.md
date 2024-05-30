@@ -8,6 +8,8 @@ venue: 'The Proceedings of the CHI Conference on Human Factors in Computing Syst
 paperurl: 'https://dl.acm.org/doi/10.1145/3613904.3642613'
 citation: '<u>Ke Li</u>, Ruidong Zhang, Siyuan Chen, Boao Chen, Mose Sakashita, François Guimbretière, and Cheng Zhang. 2024. EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses. In <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), May 11-16, 2024, Honolulu, Hawaiʻi, USA</i>. ACM, New York, NY, USA.'
 ---
+[Video preview](https://www.youtube.com/watch?v=SRbdQIPR1ig&ab_channel=ACMSIGCHI), [Presentation video](https://www.youtube.com/watch?v=slcuHg_S7Yg&ab_channel=ACMSIGCHI)
+
 Selected Media Coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2024/04/ai-powered-sonar-smartglasses-tracks-gaze-and-facial-expressions)
 
 May 11-16, 2024, Honolulu, Hawaiʻi, USA<br>
