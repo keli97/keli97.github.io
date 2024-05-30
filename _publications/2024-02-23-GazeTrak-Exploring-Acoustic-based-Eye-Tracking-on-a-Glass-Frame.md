@@ -5,7 +5,7 @@ permalink: /publication/2024-02-23-GazeTrak-Exploring-Acoustic-based-Eye-Trackin
 excerpt: 'September 30-October 4, 2024, Washington, D.C., USA. Keyword: Eye Tracking, Acoustic Sensing, Smart Glasses, Low-power'
 date: 2024-02-23
 venue: 'The Annual International Conference on Mobile Computing and Networking (MobiCom)'
-paperurl: 'http://arxiv.org/abs/2402.14634'
+paperurl: 'https://dl.acm.org/doi/10.1145/3636534.3649376'
 citation: '<u>Ke Li</u>, Ruidong Zhang, Boao Chen, Siyuan Chen, Sicheng Yin, Saif Mahmud, Qikang Liang, François Guimbretière, and Cheng Zhang. 2024. GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame. In <i>The Annual International Conference on Mobile Computing and Networking (MobiCom), September 30-October 4, 2024, Washington, D.C., USA</i>. ACM, New York, NY, USA.'
 ---
 Selected Media Coverage: [New Scientist](https://www.newscientist.com/article/2418742-smart-glasses-use-sonar-to-work-out-where-youre-looking/), [Forbes](https://www.forbes.com/sites/johnkoetsier/2024/04/10/no-camera-eye-tracking-cornell-invents-tech-to-track-gaze-minus-surveillance/?sh=7b66a4232f7d), [Cornell Chronicle](https://news.cornell.edu/stories/2024/04/ai-powered-sonar-smartglasses-tracks-gaze-and-facial-expressions)
