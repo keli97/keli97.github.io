@@ -10,9 +10,9 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header.jpeg)
 
-* I am currently a third-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI.
+* I am currently a fourth-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. I am also a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024.
 
-* I graduated with a Bachelor's Degree in School of Electronic Information and Electrical Engineering from Shanghai Jiao Tong University (SJTU), P.R. China. 
+* I graduated with a Bachelor of Science Degree in Information Engineering from Shanghai Jiao Tong University (SJTU), P.R. China, where I was awarded the National Scholarship twice. I am one of the Outstanding Graduates in Shanghai.
 
 <!--In my sophomore year, I joined [Advanced Network Laboratory](http://anl.sjtu.edu.cn/) as a research assistant, advised by [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen/) and [Prof. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). In the summer of my junior year, I went to the Department of Electrical and Computer Engineering at Carnegie Mellon University (CMU) and became a summer intern under the guidance of [Prof. Swarun Kumar](http://www.swarunkumar.com/). In my senior year, I joined [Intelligent Internet of Things (IIOT) Research Center](http://iiot.sjtu.edu.cn/index.html) to complete my graduation thesis with the supervisor [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/).-->
 
