@@ -12,13 +12,13 @@ redirect_from:
 In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock climbing, badminton, table tennis, ...). In Ithaca, I hike in the summers and ski in the winters.
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/bpump.jpeg" alt="Trulli" style="width:30%" class="center">
-    <figcaption>May 2024, B-pump Tokyo, the hardest climbing gym in the world</figcaption></center>
+    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>September 2024, US Open</figcaption></center>
 </figure>
 
 <figure>
-    <center><img src="https://keli97.github.io/files/life/usopen.jpeg" alt="Trulli" style="width:30%" class="center">
-    <figcaption>September 2023, US Open</figcaption></center>
+    <center><img src="https://keli97.github.io/files/life/bpump.jpeg" alt="Trulli" style="width:30%" class="center">
+    <figcaption>May 2024, B-pump Tokyo, the hardest climbing gym in the world</figcaption></center>
 </figure>
 
 <figure>
