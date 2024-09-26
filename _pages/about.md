@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://keli97.github.io/files/cv_header2.jpg">
+![avatar](https://keli97.github.io/files/cv_header2.jpg)
 
 * I am currently a fourth-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
 
