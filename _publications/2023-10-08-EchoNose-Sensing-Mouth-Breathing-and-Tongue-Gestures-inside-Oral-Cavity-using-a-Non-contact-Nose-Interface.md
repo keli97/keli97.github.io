@@ -8,8 +8,6 @@ venue: 'The Proceedings of the International Symposium on Wearable Computers (IS
 paperurl: 'https://dl.acm.org/doi/10.1145/3594738.3611358'
 citation: 'Rujia Sun, Xiaohe Zhou, Benjamin Steeper, Ruidong Zhang, Sicheng Yin, <u>Ke Li</u>, Shengzhang Wu, Sam Tilsen, François Guimbretière, and Cheng Zhang. 2023. EchoNose: Sensing Mouth, Breathing and Tongue Gestures inside Oral Cavity using a Non-contact Nose Interface. In <i>Proceedings of the International Symposium on Wearable Computers (ISWC), October 8-12, 2023, Cancún, Mexico</i>. ACM, New York, NY, USA, 22-26.'
 ---
-Selected Media Coverage:
-
 October 8-12, 2023, Cancún, Mexico<br>
 Keyword: Nose Interface, Tongue Gestures, Breathing Patterns, Silent Speech, Acoustic Sensing
 
