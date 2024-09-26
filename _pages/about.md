@@ -10,7 +10,7 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header2.jpg)
 
-* I am currently a fourth-year Ph.D. student in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://www.scifilab.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
+* I am currently a fourth-year Ph.D. student at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
 
 * I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024. Check out my [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-ke-li/) at Cornell Graduate School!
 
