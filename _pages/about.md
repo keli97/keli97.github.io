@@ -10,7 +10,7 @@ redirect_from:
 
 ![avatar](https://keli97.github.io/files/cv_header2.jpg)
 
-* I am currently a fourth-year Ph.D. student at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
+* I am currently a fourth-year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
 
 * I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024. Check out my [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-ke-li/) at Cornell Graduate School!
 
@@ -24,8 +24,10 @@ redirect_from:
 
 Recent News
 ------
-* Sept. 2024: SonicID, ActSonic, and Ring-a-Pose have been accepted to IMWUT/UbiComp 2024!
-* Jun. 2024: EchoGuide is accepted for publication at ISWC 2024.
+* Sept. 2024: I passed my A exam and became a Ph.D. candidate at Cornell!
+* Sept. 2024: SonicID, ActSonic, and Ring-a-Pose have been accepted to IMWUT/UbiComp 2024. SonicID and ActSonic present smart glasses that perform user identification and recognize everyday activities while Ring-a-Pose introduces a single untethered ring that tracks continuous 3D hand poses.
+* Jun. 2024: EchoGuide is accepted for publication at ISWC 2024, which leverages acoustic sensing to guide head-mounted cameras to efficiently analyze detailed eating behaviors.
+* May 2024: Our abstract on using AI-powered eyewear for routine facial expression analysis in Parkinson's Disease has been accepted for poster presentation at the International Congress of Parkinson’s Disease and Movement Disorders.
 * Apr. 2024: Ruidong and I won the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) which is covered by [Cornell Chronicle](https://news.cornell.edu/stories/2024/09/two-doctoral-students-receive-qualcomm-innovation-fellowships) and the [Graduate School](https://gradschool.cornell.edu/announcements/two-doctoral-students-receive-qualcomm-innovation-fellowships/) at Cornell.
 * Mar. 2024: [EyeEcho](https://keli97.github.io/publication/2024-01-18-EyeEcho-Continuous-and-Low-power-Facial-Expression-Tracking-on-Glasses) and [EchoWrist](https://keli97.github.io/publication/2024-01-18-EchoWrist-Continuous-Hand-Pose-Tracking-and-Hand-Object-Interaction-Recognition-Using-Low-Power-Active-Acoustic-Sensing-On-a-Wristband) have been accepted to CHI 2024. EyeEcho proposes a facial expression tracking system on a pair of eyeglasses which works in real-time while EchoWrist introduces hand pose tracking and hand-object interaction recognition techniques on a wristband.
 * Feb. 2024: [GazeTrak](https://keli97.github.io/publication/2024-02-23-GazeTrak-Exploring-Acoustic-based-Eye-Tracking-on-a-Glass-Frame) has been accepted to MobiCom 2024, which presents the first continuous gaze tracking system on a pair of eyeglasses based on acoustic sensing.
