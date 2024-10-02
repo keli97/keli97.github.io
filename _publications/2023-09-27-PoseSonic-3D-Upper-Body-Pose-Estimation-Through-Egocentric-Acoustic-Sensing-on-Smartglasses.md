@@ -6,7 +6,7 @@ excerpt: 'October 8-12, 2023, Cancún, Mexico. Keyword: Human Pose Estimation, A
 date: 2023-09-27
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://dl.acm.org/doi/10.1145/3610895'
-citation: 'Saif Mahmud, <u>Ke Li</u>, Guilin Hu, Hao Chen, Richard Jin, Ruidong Zhang, François Guimbretière, and Cheng Zhang. 2023. PoseSonic: 3D Upper Body Pose Estimation Through Egocentric Acoustic Sensing on Smartglasses. <i>The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp</i>, Volume 7, Issue 3, Article 111 (September 2023), 28 pages.'
+citation: 'Saif Mahmud, <u>Ke Li</u>, Guilin Hu, Hao Chen, Richard Jin, Ruidong Zhang, François Guimbretière, and Cheng Zhang. 2023. PoseSonic: 3D Upper Body Pose Estimation Through Egocentric Acoustic Sensing on Smartglasses. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 7, 3, Article 111 (September 2023), 28 pages.'
 ---
 Selected Media Coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2023/11/glasses-use-sonar-ai-interpret-upper-body-poses-3d)
 

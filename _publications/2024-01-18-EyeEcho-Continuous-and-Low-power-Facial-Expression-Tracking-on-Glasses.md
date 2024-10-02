@@ -6,7 +6,7 @@ excerpt: 'May 11-16, 2024, Honolulu, Hawaiʻi, USA. Keyword: Eye-mounted Wearabl
 date: 2024-01-18
 venue: 'The Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3613904.3642613'
-citation: '<u>Ke Li</u>, Ruidong Zhang, Siyuan Chen, Boao Chen, Mose Sakashita, François Guimbretière, and Cheng Zhang. 2024. EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses. In <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), May 11-16, 2024, Honolulu, Hawaiʻi, USA</i>. ACM, New York, NY, USA.'
+citation: '<u>Ke Li</u>, Ruidong Zhang, Siyuan Chen, Boao Chen, Mose Sakashita, Francois Guimbretiere, and Cheng Zhang. 2024. EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses. In <i>Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI)</i>. Association for Computing Machinery, New York, NY, USA, Article 319, 1–24.'
 ---
 [Video preview](https://www.youtube.com/watch?v=SRbdQIPR1ig&ab_channel=ACMSIGCHI), [Presentation video](https://www.youtube.com/watch?v=slcuHg_S7Yg&ab_channel=ACMSIGCHI)
 

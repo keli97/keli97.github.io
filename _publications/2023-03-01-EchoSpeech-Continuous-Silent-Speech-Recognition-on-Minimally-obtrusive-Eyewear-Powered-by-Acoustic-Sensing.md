@@ -6,7 +6,7 @@ excerpt: 'April 23–28, 2023, Hamburg, Germany. Keyword: Silent Speech Recognit
 date: 2023-03-01
 venue: 'The Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)'
 paperurl: 'https://doi.org/10.1145/3544548.3580801'
-citation: 'Ruidong Zhang, <u>Ke Li</u>, Yihong Hao, Yufan Wang, Zhengnan Lai, François Guimbretière, and Cheng Zhang. 2023. EchoSpeech: Continuous Silent Speech Recognition on Minimally-obtrusive Eyewear Powered by Acoustic Sensing. In <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), April 23–28, 2023, Hamburg, Germany</i>. ACM, New York, NY, USA, 18 pages.'
+citation: 'Ruidong Zhang, <u>Ke Li</u>, Yihong Hao, Yufan Wang, Zhengnan Lai, François Guimbretière, and Cheng Zhang. 2023. EchoSpeech: Continuous Silent Speech Recognition on Minimally-obtrusive Eyewear Powered by Acoustic Sensing. In <i>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI)</i>. Association for Computing Machinery, New York, NY, USA, Article 852, 1–18.'
 ---
 Selected Media Coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2023/04/ai-equipped-eyeglasses-can-read-silent-speech), [Engadget](https://www.engadget.com/researchers-built-sonar-glasses-that-track-facial-movements-for-silent-communication-171508573.html)
 
