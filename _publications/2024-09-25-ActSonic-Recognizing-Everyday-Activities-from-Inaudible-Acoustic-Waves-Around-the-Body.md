@@ -6,7 +6,7 @@ excerpt: 'October 2025 (Expected). Keyword: Activity Recognition, Smart Glasses,
 date: 2024-09-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://arxiv.org/abs/2404.13924'
-citation: 'Saif Mahmud, Vineet Parikh, Qikang Liang, <u>Ke Li</u>, Ruidong Zhang, Ashwin Ajit, Vipin Gunda, Devansh Agarwal, François Guimbretière, and Cheng Zhang. 2024. ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body. <i>The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp</i>.'
+citation: 'Saif Mahmud, Vineet Parikh, Qikang Liang, <u>Ke Li</u>, Ruidong Zhang, Ashwin Ajit, Vipin Gunda, Devansh Agarwal, François Guimbretière, and Cheng Zhang. 2024. ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body. <i>The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp</i>. (Accepted Pending Minor Revisions)'
 ---
 <!--Selected Media Coverage:-->
 

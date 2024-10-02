@@ -11,4 +11,4 @@ citation: 'H Y. Ooi, C. Zhang, <u>K. Li</u>, J. Narins, H. Sarva. AI-Powered Eye
 September 27-October 1, 2024, Philadelphia, PA, USA<br>
 Keyword: Parkinson’s Disease, Facial Expression Analysis, Acoustic Sensing, Smart Glasses
 
-<u>Objective:</u> Collect routine facial expression data from people with Parkinson’s Disease (PwP) and healthy controls via user-friendly AI-powered eyewear and develop AI algorithms to distinguish PD from healthy controls.
+<b>Objective:</b> Collect routine facial expression data from people with Parkinson’s Disease (PwP) and healthy controls via user-friendly AI-powered eyewear and develop AI algorithms to distinguish PD from healthy controls.
