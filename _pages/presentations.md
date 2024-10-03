@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+Admission to Candidacy (A Exam) Talk
+----------
+**Sept. 2024, Ithaca, NY**
+
+Presentation title: *AI-Powered Wearables for Face and Eye Tracking: Towards Real-World Health Applications*
+
+<figure>
+    <center><img src="https://keli97.github.io/files/aexam.JPG" alt="Trulli" style="width:80%" class="center"></center>
+</figure>
 
 Presentation at Kawahara Laboratory, the University of Tokyo
 ----------
@@ -19,7 +28,7 @@ CHI 2024
 ----------
 **May 2024, Honolulu, HI**
 
-Presentation on *EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses*
+Presentation title: *EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses*
 
 <figure>
     <center><img src="https://keli97.github.io/files/chi24.jpg" alt="Trulli" style="width:80%" class="center"></center>
@@ -39,26 +48,8 @@ UbiComp/ISWC 2022
 ----------
 **Sept. 2022, Atlanta, GA**
 
-Presentation on *EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements*
+Presentation title: *EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements*
 
 <figure>
     <center><img src="https://keli97.github.io/files/ubicomp22.JPG" alt="Trulli" style="width:80%" class="center"></center>
 </figure>
-
-
-Service
-----------
-**External Reviewer of IMWUT/UbiComp 2024**,
-Feb. 2024
-
-**External Reviewer of CHI 2024**,
-Oct. 2023
-
-**External Reviewer of UIST 2023**,
-May 2023
-
-**External Reviewer of IMWUT/UbiComp 2023**,
-Feb. & Nov. 2023
-
-**External Reviewer of IMWUT/UbiComp 2022**,
-Nov. 2022

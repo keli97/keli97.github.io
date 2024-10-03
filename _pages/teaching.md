@@ -23,3 +23,23 @@ INFO 4120/6120: Ubiquitous Computing (Fall 2021)
 
 This class is for both undergraduate and graduate students at Cornell with different backgrounds. As the only TA, my responsibilities were to hold office hours and project meetings with students to help them address the problems they encountered during individual assignments and group projects. The problems were usually related to a wide range of topics in ubiquitous computing including 3D printing, microcontrollers, sensors, signal processing (Java) and machine learning. Besides, I also provided grades and feedback on the students’ assignments and project reports.
 
+
+Service
+----------
+**External Reviewer of CHI 2025**,
+Oct. 2024
+
+**External Reviewer of IMWUT/UbiComp 2024**,
+Feb. 2024
+
+**External Reviewer of CHI 2024**,
+Oct. 2023
+
+**External Reviewer of UIST 2023**,
+May 2023
+
+**External Reviewer of IMWUT/UbiComp 2023**,
+Feb. & Nov. 2023
+
+**External Reviewer of IMWUT/UbiComp 2022**,
+Nov. 2022
