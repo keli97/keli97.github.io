@@ -8,8 +8,11 @@ main:
     
   - title: "Talks"
     url: https://keli97.github.io/presentations/
+
+  - title: "Service"
+    url: https://keli97.github.io/service/
     
-  - title: "Teaching & Service"
+  - title: "Teaching"
     url: https://keli97.github.io/teaching/
 
   - title: "Awards & Honors"
