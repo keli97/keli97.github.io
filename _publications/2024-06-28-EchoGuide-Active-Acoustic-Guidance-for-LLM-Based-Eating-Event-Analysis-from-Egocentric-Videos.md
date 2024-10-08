@@ -8,6 +8,8 @@ venue: 'The Proceedings of the International Symposium on Wearable Computers (IS
 paperurl: 'https://dl.acm.org/doi/10.1145/3675095.3676611'
 citation: 'Vineet Parikh, Saif Mahmud, Devansh Agarwal, <u>Ke Li</u>, François Guimbretière, and Cheng Zhang. 2024. EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos. In <i>Proceedings of the 2024 ACM International Symposium on Wearable Computers (ISWC)</i>. Association for Computing Machinery, New York, NY, USA, 40–47.'
 ---
+***Best Paper Honorable Mention Award***
+
 October 5-9, 2024, Melbourne, Australia<br>
 Keyword: Eating Detection, Acoustic Sensing, Activity Recognition, Foundation Models
 
