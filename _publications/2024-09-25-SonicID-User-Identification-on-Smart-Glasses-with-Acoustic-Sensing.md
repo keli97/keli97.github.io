@@ -6,7 +6,7 @@ excerpt: 'October 2025 (Expected). Keyword: User Identification, Smart Glasses, 
 date: 2024-09-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://arxiv.org/abs/2406.08273'
-citation: '<u>Ke Li</u>, Devansh Agarwal, Ruidong Zhang, Vipin Gunda, Tianjun Mo, Saif Mahmud, Boao Chen, François Guimbretière, and Cheng Zhang. 2024. SonicID: User Identification on Smart Glasses with Acoustic Sensing. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> (Accepted Pending Minor Revisions)'
+citation: '<u>Ke Li</u>, Devansh Agarwal, Ruidong Zhang, Vipin Gunda, Tianjun Mo, Saif Mahmud, Boao Chen, François Guimbretière, and Cheng Zhang. 2024. SonicID: User Identification on Smart Glasses with Acoustic Sensing. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 169 (December 2024), 28 pages. (Accepted Pending Minor Revisions)'
 ---
 <!--Selected Media Coverage:-->
 
