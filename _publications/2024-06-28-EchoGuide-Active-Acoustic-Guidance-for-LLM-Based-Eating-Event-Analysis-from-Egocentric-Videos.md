@@ -19,6 +19,6 @@ Keyword: Eating Detection, Acoustic Sensing, Activity Recognition, Foundation Mo
 
 Self-recording eating behaviors is a step towards a healthy lifestyle recommended by many health professionals. However, the current practice of manually recording eating activities using paper records or smartphone apps is often unsustainable and inaccurate. Smart glasses have emerged as a promising wearable form factor for tracking eating behaviors, but existing systems primarily identify when eating occurs without capturing details of the eating activities (E.g., what is being eaten). In this paper, we present EchoGuide, an application and system pipeline that leverages low-power active acoustic sensing to guide head-mounted cameras to capture egocentric videos, enabling efficient and detailed analysis of eating activities. By combining active acoustic sensing for eating detection with video captioning models and large-scale language models for retrieval augmentation, EchoGuide intelligently clips and analyzes videos to create concise, relevant activity records on eating. We evaluated EchoGuide with 9 participants in naturalistic settings involving eating activities, demonstrating high-quality summarization and significant reductions in video data needed, paving the way for practical, scalable eating activity tracking.
 
-<!--<iframe width="420" height="315"-->
-<!--src="https://www.youtube.com/embed/XvNLNkfQY7Q">-->
-<!--</iframe>-->
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/AxhNPpZy6gs">
+</iframe>
