@@ -2,16 +2,16 @@
 title: "ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body"
 collection: publications
 permalink: /publication/2024-09-25-ActSonic-Recognizing-Everyday-Activities-from-Inaudible-Acoustic-Waves-Around-the-Body
-excerpt: 'October 2025 (Expected). Keyword: Activity Recognition, Smart Glasses, Acoustic Sensing, User-independent'
+excerpt: 'December 2024. Keyword: Acoustic Sensing, Activity Recognition, Self-supervised Leaning'
 date: 2024-09-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://arxiv.org/abs/2404.13924'
-citation: 'Saif Mahmud, Vineet Parikh, Qikang Liang, <u>Ke Li</u>, Ruidong Zhang, Ashwin Ajit, Vipin Gunda, Devansh Agarwal, François Guimbretière, and Cheng Zhang. 2024. ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 183 (December 2024), 32 pages. (Accepted Pending Minor Revisions)'
+citation: 'Saif Mahmud, Vineet Parikh, Qikang Liang, <u>Ke Li</u>, Ruidong Zhang, Ashwin Ajit, Vipin Gunda, Devansh Agarwal, François Guimbretière, and Cheng Zhang. 2024. ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 183 (December 2024), 32 pages. (Accepted for Publication)'
 ---
 <!--Selected Media Coverage:-->
 
-October 2025 (Expected)<br>
-Keyword: Activity Recognition, Smart Glasses, Acoustic Sensing, User-independent
+December 2024<br>
+Keyword: Acoustic Sensing, Activity Recognition, Self-supervised Leaning
 
 <figure>
     <center><img src="https://keli97.github.io/files/actsonic.png" alt="Trulli" style="width:100%" class="center"></center>

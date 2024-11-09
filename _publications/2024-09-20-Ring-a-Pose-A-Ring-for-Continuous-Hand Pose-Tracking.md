@@ -2,15 +2,15 @@
 title: "Ring-a-Pose: A Ring for Continuous Hand Pose Tracking"
 collection: publications
 permalink: /publication/2024-09-20-Ring-a-Pose-A-Ring-for-Continuous-Hand Pose-Tracking
-excerpt: 'October 2025 (Expected). Keyword: 3D Hand Pose Tracking, Micro-finger Gesture Recognition, Smart Ring, Acoustic Sensing'
+excerpt: 'December 2024. Keyword: 3D Hand Pose Tracking, Micro-finger Gesture Recognition, Smart Ring, Acoustic Sensing'
 date: 2024-09-20
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://arxiv.org/abs/2404.12980'
-citation: 'Tianhong Catherine Yu, Guilin Hu, Ruidong Zhang, Hyunchul Lim, Saif Mahmud, Chi-Jung Lee, <u>Ke Li</u>, Devansh Agarwal, Shuyang Nie, Jinseok Oh, François Guimbretière, and Cheng Zhang. 2024. Ring-a-Pose: A Ring for Continuous Hand Pose Tracking. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 189 (December 2024), 30 pages. (Accepted Pending Minor Revisions)'
+citation: 'Tianhong Catherine Yu, Guilin Hu, Ruidong Zhang, Hyunchul Lim, Saif Mahmud, Chi-Jung Lee, <u>Ke Li</u>, Devansh Agarwal, Shuyang Nie, Jinseok Oh, François Guimbretière, and Cheng Zhang. 2024. Ring-a-Pose: A Ring for Continuous Hand Pose Tracking. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 189 (December 2024), 30 pages. (Accepted for Publication)'
 ---
 <!--Selected Media Coverage:-->
 
-October 2025 (Expected)<br>
+December 2024<br>
 Keyword: 3D Hand Pose Tracking, Micro-finger Gesture Recognition, Smart Ring, Acoustic Sensing
 
 <figure>
