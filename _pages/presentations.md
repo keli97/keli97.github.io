@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+MobiCom 2024
+----------
+**November 2024, Washington, D.C.**
+
+Presentation title: *GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame*
+
+<figure>
+    <center><img src="https://keli97.github.io/files/mobicom24.png" alt="Trulli" style="width:80%" class="center"></center>
+</figure>
+
 Admission to Candidacy (A Exam) Talk
 ----------
 **Sept. 2024, Ithaca, NY**
