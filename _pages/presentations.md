@@ -15,7 +15,7 @@ MobiCom 2024
 Presentation title: *GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame*
 
 <figure>
-    <center><img src="https://keli97.github.io/files/mobicom24.png" alt="Trulli" style="width:80%" class="center"></center>
+    <center><img src="https://keli97.github.io/files/mobicom24.PNG" alt="Trulli" style="width:80%" class="center"></center>
 </figure>
 
 Admission to Candidacy (A Exam) Talk
