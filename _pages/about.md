@@ -24,6 +24,7 @@ redirect_from:
 
 Recent News
 ------
+* Dec. 2024: I am awarded the Master of Science degree in Information Science from Cornell University.
 * Oct. 2024: EchoGuide wins the Best Paper Honorable Mention Award at ISWC 2024.
 * Sept. 2024: I passed my A exam and became a Ph.D. candidate at Cornell!
 * Sept. 2024: [SonicID](https://keli97.github.io/publication/2024-09-25-SonicID-User-Identification-on-Smart-Glasses-with-Acoustic-Sensing), [ActSonic](https://keli97.github.io/publication/2024-09-25-ActSonic-Recognizing-Everyday-Activities-from-Inaudible-Acoustic-Waves-Around-the-Body), and [Ring-a-Pose](https://keli97.github.io/publication/2024-09-20-Ring-a-Pose-A-Ring-for-Continuous-Hand Pose-Tracking) have been accepted to IMWUT/UbiComp 2024. SonicID and ActSonic present smart glasses that perform user identification and recognize everyday activities while Ring-a-Pose introduces a single untethered ring that tracks continuous 3D hand poses.

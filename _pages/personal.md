@@ -34,6 +34,11 @@ In my spare time, I enjoy playing all kinds of sports (tennis, basketball, rock 
 During holidays, I am enthusastic about traveling and exploring the world. Apart from my home country China, Thailand is my favorite country among all the countries I have visited.
 
 <figure>
+    <center><img src="https://keli97.github.io/files/life/tampa.JPG" alt="Trulli" style="width:30%" class="center">
+    <figcaption>December 2024, Tampa, USA</figcaption></center>
+</figure>
+
+<figure>
     <center><img src="https://keli97.github.io/files/life/tokyo.jpeg" alt="Trulli" style="width:30%" class="center">
     <figcaption>May 2024, Tokyo, Japan</figcaption></center>
 </figure>
