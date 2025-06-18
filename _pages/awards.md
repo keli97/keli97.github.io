@@ -35,50 +35,74 @@ redirect_from:
     </div>
 </div>
 
-A-level Outstanding Scholarship of Shanghai Jiaotong University (Top 1%)
-----------
-**Nov. 2019**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>A-level Outstanding Scholarship of Shanghai Jiaotong University (Top 1%)</h2>
+        <p><strong>Nov. 2019</strong></p>
+        <p>Scholarship awarded to outstanding students at SJTU</p>
+    </div>
+</div>
 
-Scholarship awarded to outstanding students at SJTU
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>Tang Lixin Scholarship (Top 0.2%)</h2>
+        <p><strong>Oct. 2019</strong></p>
+        <p>Scholarship founded by Mr. Tang Lixin and awarded to Top 60 students at SJTU</p>
+    </div>
+</div>
 
-Tang Lixin Scholarship (Top 0.2%)
-----------
-**Oct. 2019**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>National Scholarship (1/158)</h2>
+        <p><strong>Oct. 2019</strong></p>
+        <p>Top scholarship awarded to undergraduates in China for their achievements in academics</p>
+    </div>
+</div>
 
-Scholarship founded by Mr. Tang Lixin and awarded to Top 60 students at SJTU
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>Outstanding Participant Title in the 2018 Summer Social Practice of SJTU (Top 2%)</h2>
+        <p><strong>Nov. 2018</strong></p>
+        <p>Honor bestowed on outstanding participants in the 2018 Summer Social Practice of SJTU</p>
+    </div>
+</div>
 
-National Scholarship (1/158)
-----------
-**Oct. 2019**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 2%)</h2>
+        <p><strong>Nov. 2018</strong></p>
+        <p>Scholarship awarded to outstanding students at SJTU</p>
+    </div>
+</div>
 
-Top scholarship awarded to undergraduates in China for their achievements in academics
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>National Scholarship (3/158)</h2>
+        <p><strong>Oct. 2018</strong></p>
+        <p>Top scholarship awarded to undergraduates in China for their achievements in academics</p>
+    </div>
+</div>
 
-Outstanding Participant Title in the 2018 Summer Social Practice of SJTU (Top 2%)
-----------
-**Nov. 2018**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>Wen-Yuan Pan Scholarship (Top 5%)</h2>
+        <p><strong>Dec. 2017</strong></p>
+        <p>Scholarship founded by Wen-Yuan Pan Foundation</p>
+    </div>
+</div>
 
-Honor bestowed on outstanding participants in the 2018 Summer Social Practice of SJTU
-
-B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 2%)
-----------
-**Nov. 2018**
-
-Scholarship awarded to outstanding students at SJTU
-
-National Scholarship (3/158)
-----------
-**Oct. 2018**
-
-Top scholarship awarded to undergraduates in China for their achievements in academics
-
-Wen-Yuan Pan Scholarship (Top 5%)
-----------
-**Dec. 2017**
-
-Scholarship founded by Wen-Yuan Pan Foundation
-
-B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 5%)
-----------
-**Nov. 2017**
-
-Scholarship awarded to outstanding students at SJTU
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 5%)</h2>
+        <p><strong>Nov. 2017</strong></p>
+        <p>Scholarship awarded to outstanding students at SJTU</p>
+    </div>
+</div>
