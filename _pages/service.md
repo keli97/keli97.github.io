@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+External Reviewer of IMWUT/UbiComp 2025
+----------
+**May 2025**
+
 External Reviewer of CHI 2025
 ----------
 **Oct. 2024**

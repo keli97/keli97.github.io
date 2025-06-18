@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Qualcomm Innovation Fellowship 2024
+<img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 30px; height: auto; vertical-align: middle; margin-right: 10px;"> Qualcomm Innovation Fellowship 2024
 ----------
 **Apr. 2024**
 
@@ -20,7 +20,7 @@ Nominated for a 2021-2022 Outstanding Teaching Award
 
 Honor bestowed on outstanding PhD teaching assistants in Information Science at Cornell
 
-Outstanding Graduates in Shanghai (Top 5%)
+Outstanding Graduate in Shanghai (Top 5%)
 ----------
 **Jun. 2020**
 
