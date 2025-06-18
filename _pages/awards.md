@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/qualcomm.png" alt="Qualcomm" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Qualcomm Innovation Fellowship 2024</h2>
         <p><strong>Apr. 2024</strong></p>
@@ -18,7 +18,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/cornell.png" alt="Cornell" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/cornell.png" alt="Cornell" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Nominated for a 2021-2022 Outstanding Teaching Award</h2>
         <p><strong>May 2022</strong></p>
@@ -27,7 +27,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Outstanding Graduate in Shanghai (Top 5%)</h2>
         <p><strong>Jun. 2020</strong></p>
@@ -36,7 +36,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>A-level Outstanding Scholarship of Shanghai Jiaotong University (Top 1%)</h2>
         <p><strong>Nov. 2019</strong></p>
@@ -45,7 +45,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Tang Lixin Scholarship (Top 0.2%)</h2>
         <p><strong>Oct. 2019</strong></p>
@@ -54,7 +54,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>National Scholarship (1/158)</h2>
         <p><strong>Oct. 2019</strong></p>
@@ -63,7 +63,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Outstanding Participant Title in the 2018 Summer Social Practice of SJTU (Top 2%)</h2>
         <p><strong>Nov. 2018</strong></p>
@@ -72,7 +72,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 2%)</h2>
         <p><strong>Nov. 2018</strong></p>
@@ -81,7 +81,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>National Scholarship (3/158)</h2>
         <p><strong>Oct. 2018</strong></p>
@@ -90,7 +90,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Wen-Yuan Pan Scholarship (Top 5%)</h2>
         <p><strong>Dec. 2017</strong></p>
@@ -99,7 +99,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/university/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>B-level Outstanding Scholarship of Shanghai Jiaotong University (Top 5%)</h2>
         <p><strong>Nov. 2017</strong></p>
