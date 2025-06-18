@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Qualcomm Innovation Fellowship 2024</h2>
         <p><strong>Apr. 2024</strong></p>
@@ -18,7 +18,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/cornell.png" alt="ominated for a 2021-2022 Outstanding Teaching Award" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/awards/cornell.png" alt="Cornell" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Nominated for a 2021-2022 Outstanding Teaching Award</h2>
         <p><strong>May 2022</strong></p>
@@ -27,7 +27,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="Outstanding Graduate in Shanghai (Top 5%)" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="SJTU" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>Outstanding Graduate in Shanghai (Top 5%)</h2>
         <p><strong>Jun. 2020</strong></p>
