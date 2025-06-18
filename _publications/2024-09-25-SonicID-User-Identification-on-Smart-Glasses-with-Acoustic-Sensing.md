@@ -7,6 +7,7 @@ date: 2024-09-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://dl.acm.org/doi/10.1145/3699734'
 citation: '<u>Ke Li</u>, Devansh Agarwal, Ruidong Zhang, Vipin Gunda, Tianjun Mo, Saif Mahmud, Boao Chen, François Guimbretière, and Cheng Zhang. 2024. SonicID: User Identification on Smart Glasses with Acoustic Sensing. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 169 (November 2024), 27 pages.'
+teaser_gif: /files/pubs/sonicid.png
 ---
 <!--Selected Media Coverage:-->
 

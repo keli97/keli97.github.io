@@ -7,6 +7,7 @@ date: 2022-07-07
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://doi.org/10.1145/3534621'
 citation: '<u>Ke Li</u>, Ruidong Zhang, Bo Liang, François Guimbretière, and Cheng Zhang. 2022. EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 6, 2, Article 62 (July 2022), 24 pages.'
+teaser_gif: /files/pubs/eario.gif
 ---
 Selected Media Coverage: [Cornell Chronicle](https://news.cornell.edu/stories/2022/07/earable-uses-sonar-reconstruct-facial-expressions), [Cornell CIS](https://prod.cis.cornell.edu/earable-uses-sonar-reconstruct-facial-expressions), [Cornell IS](https://infosci.cornell.edu/information/news/newsitem1266/earable-uses-sonar-reconstruct-facial-expressions)
 
