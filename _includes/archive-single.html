@@ -41,12 +41,6 @@
           {% endif %}
         </h2>
 
-        {% comment %}
-          This entire block will ONLY display if the current page's URL matches
-          the URL of the specific publication being rendered.
-          This means it will show on the individual publication page, but not on the
-          main publications summary page.
-        {% endcomment %}
         {% if page.url == post.url %}
           {% if post.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -66,10 +60,6 @@
           <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
           {% endif %}
         {% endif %}
-        {% comment %}
-          The citation and paper URL links below will always show, as per your previous screenshots.
-          If you want to hide these too, move them inside the {% if page.url == post.url %} block.
-        {% endcomment %}
         {% if post.citation and post.paperurl %}
           <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
         {% elsif post.citation %}
