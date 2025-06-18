@@ -7,6 +7,7 @@ date: 2019-06-05
 venue: 'IEEE Transactions on Wireless Communications (TWC)'
 paperurl: 'https://ieeexplore.ieee.org/document/8765348'
 citation: '<u>K. Li</u>, X. Gao, F. Wu and G. Chen, "A Constant Factor Approximation for  d  -Hop Connected Dominating Set in Three-Dimensional Wireless Networks," in <i>IEEE Transactions on Wireless Communications</i>, vol. 18, no. 9, pp. 4357-4367, Sept. 2019.'
+teaser_gif: /files/pubs/cds.png
 ---
 Keyword: Wireless Sensor Network, d-CDS, Spanning Tree, Cluster, Distributed Algorithm
 
