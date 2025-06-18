@@ -7,6 +7,7 @@ date: 2024-09-25
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://dl.acm.org/doi/10.1145/3699752'
 citation: 'Saif Mahmud, Vineet Parikh, Qikang Liang, <u>Ke Li</u>, Ruidong Zhang, Ashwin Ajit, Vipin Gunda, Devansh Agarwal, François Guimbretière, and Cheng Zhang. 2024. ActSonic: Recognizing Everyday Activities from Inaudible Acoustic Waves Around the Body. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 183 (November 2024), 32 pages.'
+teaser_gif: /files/pubs/actsonic.gif
 ---
 <!--Selected Media Coverage:-->
 
