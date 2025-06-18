@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div style="display: flex; align-items: center;">
-    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 30px; height: auto; margin-right: 10px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 30px; height: auto; margin-right: 10px; margin-top: 5px;">
     <div>
-        Qualcomm Innovation Fellowship 2024
+        <strong>Qualcomm Innovation Fellowship 2024</strong>
         <br>
-        **Apr. 2024**
+        <strong>Apr. 2024</strong>
     </div>
 </div>
 
