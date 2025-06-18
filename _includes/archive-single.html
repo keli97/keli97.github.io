@@ -15,9 +15,9 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
-    <div style="display: flex; align-items: center; /* Changed from flex-start to center */ margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start;">
       {% if post.teaser_gif %}
-        <img src="{{ post.teaser_gif | relative_url }}" alt="Publication Teaser GIF" style="width: 100px; /* Increased width */ height: auto; margin-right: 20px; /* Increased margin */ flex-shrink: 0;">
+        <img src="{{ post.teaser_gif | relative_url }}" alt="Publication Teaser GIF" style="width: 150px; height: auto; margin-right: 20px; flex-shrink: 0;">
       {% endif %}
       
       <div style="flex-grow: 1;">
