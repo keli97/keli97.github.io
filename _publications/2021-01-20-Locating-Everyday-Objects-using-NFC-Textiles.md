@@ -7,6 +7,7 @@ date: 2021-01-20
 venue: 'The ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3412382.3458254'
 citation: 'Jingxian Wang (Co-Primary), Junbo Zhang (Co-Primary), <u>Ke Li</u>, Chengfeng Pan, Carmel Majidi, and Swarun Kumar. 2021. Locating Everyday Objects using NFC Textiles. In <i>Proceedings of the 20th International Conference on Information Processing in Sensor Networks (co-located with CPS-IoT Week 2021) (IPSN)</i>. Association for Computing Machinery, New York, NY, USA, 15–30.'
+teaser_gif: /files/pubs/textilesense.gif
 ---
 ***Best Paper Award & Best Presentation Award***
 

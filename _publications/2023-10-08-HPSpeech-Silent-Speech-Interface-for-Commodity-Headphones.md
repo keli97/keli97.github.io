@@ -7,6 +7,7 @@ date: 2023-10-08
 venue: 'The Proceedings of the International Symposium on Wearable Computers (ISWC)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3594738.3611365'
 citation: 'Ruidong Zhang, Hao Chen, Devansh Agarwal, Richard Jin, <u>Ke Li</u>, François Guimbretière, and Cheng Zhang. 2023. HPSpeech: Silent Speech Interface for Commodity Headphones. In <i>Proceedings of the 2023 ACM International Symposium on Wearable Computers (ISWC)</i>. Association for Computing Machinery, New York, NY, USA, 60–65.'
+teaser_gif: /files/pubs/hpspeech.gif
 ---
 ***Best Paper Honorable Mention Award***
 

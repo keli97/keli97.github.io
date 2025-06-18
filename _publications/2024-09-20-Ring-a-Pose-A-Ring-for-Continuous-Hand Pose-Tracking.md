@@ -7,6 +7,7 @@ date: 2024-09-20
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
 paperurl: 'https://dl.acm.org/doi/10.1145/3699741'
 citation: 'Tianhong Catherine Yu, Guilin Hu, Ruidong Zhang, Hyunchul Lim, Saif Mahmud, Chi-Jung Lee, <u>Ke Li</u>, Devansh Agarwal, Shuyang Nie, Jinseok Oh, François Guimbretière, and Cheng Zhang. 2024. Ring-a-Pose: A Ring for Continuous Hand Pose Tracking. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 8, 4, Article 189 (November 2024), 30 pages.'
+teaser_gif: /files/pubs/ringapose.gif
 ---
 <!--Selected Media Coverage:-->
 
