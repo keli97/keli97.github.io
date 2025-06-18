@@ -10,18 +10,22 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/ubicomp_2025.jpg" alt="UbiComp 2025" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <img src="https://keli97.github.io/files/awards/ubicomp_2025.png" alt="UbiComp 2025" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
     <div>
         <h2>External Reviewer of IMWUT/UbiComp 2025</h2>
         <p><strong>May 2025</strong></p>
     </div>
 </div>
 
-External Reviewer of CHI 2025
-----------
-**Oct. 2024**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/chi_2025.png" alt="CHI 2025" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>External Reviewer of CHI 2025</h2>
+        <p><strong>Oct. 2024</strong></p>
+        <p>Recognized for Outstanding Reviews</p>
+    </div>
+</div>
 
-Recognized for Outstanding Reviews
 
 External Reviewer of IMWUT/UbiComp 2024
 ----------
