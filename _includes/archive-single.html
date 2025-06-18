@@ -15,9 +15,9 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <div style="display: flex; align-items: flex-start;">
+    <div style="display: flex; align-items: center;">
       {% if post.teaser_gif %}
-        <img src="{{ post.teaser_gif | relative_url }}" alt="Publication Teaser GIF" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0; margin-top: 30px;">
+        <img src="{{ post.teaser_gif | relative_url }}" alt="Publication Teaser GIF" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
       {% endif %}
 
       <div style="flex-grow: 1;">
@@ -61,7 +61,6 @@
            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
           {% endif %}
 
-          {# This is likely where your "May 11-16..." line comes from #}
           {% if post.excerpt and site.read_more != 'enabled' %}
           <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
           {% elsif post.excerpt and site.read_more == 'enabled' %}
