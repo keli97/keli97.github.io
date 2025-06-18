@@ -8,9 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-<img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 30px; height: auto; vertical-align: middle; margin-right: 10px;"> Qualcomm Innovation Fellowship 2024
-----------
-**Apr. 2024**
+<div style="display: flex; align-items: center;">
+    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 30px; height: auto; margin-right: 10px;">
+    <div>
+        Qualcomm Innovation Fellowship 2024
+        <br>
+        **Apr. 2024**
+    </div>
+</div>
 
 Fellowship focused on recognizing, rewarding, and mentoring PhD students based on Qualcomm’s core values of innovation, execution, and teamwork
 
