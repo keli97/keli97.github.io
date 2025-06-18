@@ -34,11 +34,14 @@ Presentation at Kawahara Laboratory, the University of Tokyo
 
 Research talk on [acoustic sensing around the body](https://www.akg.t.u-tokyo.ac.jp/archives/5076)
 
-CHI 2024
-----------
-**May 2024, Honolulu, HI**
-
-Presentation title: *EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses*
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/service/chi_2024.png" alt="CHI 2024" style="width: 80px; height: auto; margin-right: 15px; margin-top: 40px;">
+    <div>
+        <h2>CHI 2024</h2>
+        <p><strong>May 2024, Honolulu, HI</strong></p>
+        <p>Presentation title: <i>EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses</i></p>
+    </div>
+</div>
 
 <figure>
     <center><img src="https://keli97.github.io/files/chi24.jpg" alt="Trulli" style="width:80%" class="center"></center>
