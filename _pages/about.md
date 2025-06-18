@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://keli97.github.io/files/cv_header2.jpg" alt="avatar" style="width: 500px; height: auto;">
+<img src="https://keli97.github.io/files/cv_header2.jpg" alt="avatar" style="width: 800px; height: auto;">
 
 * I am currently a fourth-year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
 
