@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 50px; height: auto; margin-right: 15px; margin-top: 2px;">
+    <img src="https://keli97.github.io/files/awards/qualcomm.png" alt="Qualcomm Innovation Fellowship" style="width: 80px; height: auto; margin-right: 15px; margin-top: 30px;">
     <div>
         <h2>Qualcomm Innovation Fellowship 2024</h2>
         <p><strong>Apr. 2024</strong></p>
@@ -18,15 +18,23 @@ redirect_from:
 
 Fellowship focused on recognizing, rewarding, and mentoring PhD students based on Qualcomm’s core values of innovation, execution, and teamwork
 
-Nominated for a 2021-2022 Outstanding Teaching Award
-----------
-**May 2022**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/cornell.png" alt="ominated for a 2021-2022 Outstanding Teaching Award" style="width: 80px; height: auto; margin-right: 15px; margin-top: 30px;">
+    <div>
+        <h2>Nominated for a 2021-2022 Outstanding Teaching Award</h2>
+        <p><strong>May 2022</strong></p>
+    </div>
+</div>
 
 Honor bestowed on outstanding PhD teaching assistants in Information Science at Cornell
 
-Outstanding Graduate in Shanghai (Top 5%)
-----------
-**Jun. 2020**
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/awards/sjtu.png" alt="Outstanding Graduate in Shanghai (Top 5%)" style="width: 80px; height: auto; margin-right: 15px; margin-top: 30px;">
+    <div>
+        <h2>Outstanding Graduate in Shanghai (Top 5%)</h2>
+        <p><strong>Jun. 2020</strong></p>
+    </div>
+</div>
 
 Honor bestowed on outstanding graduates from universities in Shanghai
 
