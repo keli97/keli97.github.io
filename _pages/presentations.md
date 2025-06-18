@@ -39,7 +39,7 @@ redirect_from:
     <div>
         <h2>Presentation at Kawahara Laboratory, the University of Tokyo</h2>
         <p><strong>May 2024, Tokyo, Japan</strong></p>
-        <p>Research talk on [acoustic sensing around the body](https://www.akg.t.u-tokyo.ac.jp/archives/5076)</i></p>
+        <p>Research talk on <a href="https://www.akg.t.u-tokyo.ac.jp/archives/5076">acoustic sensing around the body</a></p>
     </div>
 </div>
 
