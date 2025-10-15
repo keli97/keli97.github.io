@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: https://keli97.github.io/publications/
 
-  - title: "Awards & Honors"
-    url: https://keli97.github.io/awards/
+  # - title: "Awards & Honors"
+  #   url: https://keli97.github.io/awards/
     
   - title: "Talks"
     url: https://keli97.github.io/presentations/

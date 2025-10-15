@@ -14,7 +14,7 @@ redirect_from:
 
 * I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024. Check out my [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-ke-li/) at Cornell Graduate School!
 
-* I graduated with a Bachelor of Science Degree in Information Engineering from Shanghai Jiao Tong University (SJTU), P.R. China, where I was awarded the National Scholarship twice. I am one of the Outstanding Graduates in Shanghai.
+* I graduated with a Bachelor of Science Degree in Information Engineering from Shanghai Jiao Tong University (SJTU), P.R. China. I am one of the Outstanding Graduates in Shanghai.
 
 <!--In my sophomore year, I joined [Advanced Network Laboratory](http://anl.sjtu.edu.cn/) as a research assistant, advised by [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen/) and [Prof. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). In the summer of my junior year, I went to the Department of Electrical and Computer Engineering at Carnegie Mellon University (CMU) and became a summer intern under the guidance of [Prof. Swarun Kumar](http://www.swarunkumar.com/). In my senior year, I joined [Intelligent Internet of Things (IIOT) Research Center](http://iiot.sjtu.edu.cn/index.html) to complete my graduation thesis with the supervisor [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/).-->
 
