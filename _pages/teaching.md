@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+INFO 4100/5101: Learning Analytics (Spring 2026)
+----------
+**Teaching Assistant at Cornell University, Instructor: Prof. Rene Kizilcec**
+
+This course is for undergraduate and graduate students at Cornell and explores how learning theories and data science methods can be applied to real-world educational data to understand and improve teaching and learning through learning analytics. My responsibilities as a TA were to hold office hours and lead discussion sessions with students to help them address the problems they encountered during the class and assignments and finish group projects.
+
 INFO 2951: Introduction to Data Science with R (Spring 2025)
 ----------
 **Teaching Assistant at Cornell University, Instructor: Prof. Benjamin Soltoff**

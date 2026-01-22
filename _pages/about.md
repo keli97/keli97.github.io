@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="https://keli97.github.io/files/cv_header2.jpg" alt="avatar" style="width: 700px; height: auto;">
 
-* I am currently a fourth-year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, and IPSN. 
+* I am currently a fifth-year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, sensing systems, wearable devices, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, IPSN, and PerCom.
 
 * I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024. Check out my [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-ke-li/) at Cornell Graduate School!
 
@@ -24,6 +24,8 @@ redirect_from:
 
 Recent News
 ------
+* Dec. 2025: μTouch is accepted for publication at PerCom 2026, which presents a novel magnetic sensing platform for self-touch gesture recognition.
+* Aug. 2025: I joined Meta for a four-month research internship.
 * Dec. 2024: I am awarded the Master of Science degree in Information Science from Cornell University.
 * Oct. 2024: EchoGuide wins the Best Paper Honorable Mention Award at ISWC 2024.
 * Sept. 2024: I passed my A exam and became a Ph.D. candidate at Cornell!
