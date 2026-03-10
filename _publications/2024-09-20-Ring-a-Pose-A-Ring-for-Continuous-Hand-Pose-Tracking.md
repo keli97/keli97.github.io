@@ -1,7 +1,7 @@
 ---
 title: "Ring-a-Pose: A Ring for Continuous Hand Pose Tracking"
 collection: publications
-permalink: /publication/2024-09-20-Ring-a-Pose-A-Ring-for-Continuous-Hand Pose-Tracking
+permalink: /publication/2024-09-20-Ring-a-Pose-A-Ring-for-Continuous-Hand-Pose-Tracking
 excerpt: 'November 2024. Keyword: 3D Hand Pose Tracking, Micro-finger Gesture Recognition, Smart Ring, Acoustic Sensing'
 date: 2024-09-20
 venue: 'The Proceedings of the Association for Computing Machinery on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)/UbiComp'
