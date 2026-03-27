@@ -24,7 +24,7 @@ redirect_from:
 
 Recent News
 ------
-* Feb. 2026: My internship project at Meta is accepted to be published at CHI Extended Abstracts 2026. This project explores head pose and full-body pose estimation on a pair of smart glasses using ultrasonic sensing.
+* Feb. 2026: My [internship project](https://keli97.github.io/publication/2026-04-13-Head-and-Body-Pose-Estimation-using-Ultrasound-Sensing-on-Smart-Glasses) at Meta is accepted to be published at CHI Extended Abstracts 2026. This project explores head pose and full-body pose estimation on a pair of smart glasses using ultrasonic sensing.
 * Dec. 2025: [μTouch](https://keli97.github.io/publication/2026-02-24-µTouch-Enabling-Accurate-Lightweight-Self-Touch-Sensing-with-Passive-Magnets) is accepted for publication at PerCom 2026, which presents a novel magnetic sensing platform for self-touch gesture recognition.
 * Aug. 2025: I joined Meta for a four-month research internship.
 * Dec. 2024: I am awarded the Master of Science degree in Information Science from Cornell University.
