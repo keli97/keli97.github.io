@@ -2,16 +2,16 @@
 title: "Head and Body Pose Estimation using Ultrasound Sensing on Smart Glasses"
 collection: publications
 permalink: /publication/2026-04-13-Head-and-Body-Pose-Estimation-using-Ultrasound-Sensing-on-Smart-Glasses
-excerpt: 'April 2026. Keyword: Ultrasound Sensing (USS), Body Pose Estimation, Head Pose Estimation, Smart Glasses'
+excerpt: 'April 13–17, 2026, Barcelona, Spain. Keyword: Ultrasound Sensing (USS), Body Pose Estimation, Head Pose Estimation, Smart Glasses'
 date: 2026-04-13
 venue: 'Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)'
-paperurl: ''
-citation: '<u>Ke Li</u>, Robin Kips, Filippo Arcadu, Marek Schikora, John Ho, Chris Graf, Jim Chen, Xingxing Cai, Gawsalyan Sivapalan, Ariyan Zarei, and Yan Deblangey. 2026. Head and Body Pose Estimation using Ultrasound Sensing on Smart Glasses. <i>Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)</i>.'
+paperurl: 'https://doi.org/10.1145/3772363.3798385'
+citation: '<u>Ke Li</u>, Robin Kips, Filippo Arcadu, Marek Schikora, John Ho, Chris Graf, Jim Chen, Xingxing Cai, Gawsalyan Sivapalan, Ariyan Zarei, and Yan Deblangey. 2026. Head and Body Pose Estimation using Ultrasound Sensing on Smart Glasses. In <i>Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA)</i>. ACM, New York, NY, USA, 6 pages.'
 teaser_gif: /files/pubs/ultrasound.gif
 ---
 <!--Selected Media Coverage:-->
 
-April 2026<br>
+April 13–17, 2026, Barcelona, Spain<br>
 Keyword: Ultrasound Sensing (USS), Body Pose Estimation, Head Pose Estimation, Smart Glasses
 
 <figure>
