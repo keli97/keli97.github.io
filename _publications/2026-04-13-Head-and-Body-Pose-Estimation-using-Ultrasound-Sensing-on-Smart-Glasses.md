@@ -9,6 +9,8 @@ paperurl: 'https://doi.org/10.1145/3772363.3798385'
 citation: '<u>Ke Li</u>, Robin Kips, Filippo Arcadu, Marek Schikora, John Ho, Chris Graf, Jim Chen, Xingxing Cai, Gawsalyan Sivapalan, Ariyan Zarei, and Yan Deblangey. 2026. Head and Body Pose Estimation using Ultrasound Sensing on Smart Glasses. In <i>Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA)</i>. ACM, New York, NY, USA, 6 pages.'
 teaser_gif: /files/pubs/ultrasound.gif
 ---
+[Presentation video](https://www.youtube.com/watch?v=7J3LnmQiBIg)
+
 <!--Selected Media Coverage:-->
 
 April 13–17, 2026, Barcelona, Spain<br>
