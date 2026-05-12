@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/conference/uist_2026.jpg" alt="UIST 2026" style="width: 80px; height: auto; margin-right: 15px; margin-top: 50px;">
+    <div>
+        <h2>External Reviewer of UIST 2026</h2>
+        <p><strong>May 2026</strong></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="https://keli97.github.io/files/conference/ubicomp_2026.png" alt="UbiComp 2026" style="width: 80px; height: auto; margin-right: 15px; margin-top: 50px;">
     <div>
         <h2>External Reviewer of IMWUT/UbiComp 2026</h2>
