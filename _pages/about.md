@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="https://keli97.github.io/files/cv_header2.jpg" alt="avatar" style="width: 700px; height: auto;">
 
-* **📢 I am currently on the job market for full-timr Research Scientist and Software Engineer positions in industry. Please feel free to reach out if you are interested in discussing potential opportunities!**
+* **📢 I am currently on the job market for full-time Research Scientist and Software Engineer positions in industry. Please feel free to reach out if you are interested in discussing potential opportunities!**
 
 * I am currently a final year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, wearable devices, HCI, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, IPSN, and PerCom.
 
