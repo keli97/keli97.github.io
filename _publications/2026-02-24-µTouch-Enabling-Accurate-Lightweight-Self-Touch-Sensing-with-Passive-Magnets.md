@@ -6,7 +6,7 @@ excerpt: 'March 16-20, 2026, Pisa, Italy. Keyword: HCI, Healthcare, Pervasive Se
 date: 2026-02-24
 venue: 'IEEE International Conference on Pervasive Computing and Communications (PerCom)'
 paperurl: 'https://doi.ieeecomputersociety.org/10.1109/PerCom67906.2026.11524446'
-citation: 'Siyuan Wang, <u>Ke Li</u>, Jingyuan Huang, Jike Wang, Cheng Zhang, Alanson P. Sample, and Dongyao Chen. 2026. µTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets. <i>IEEE International Conference on Pervasive Computing and Communications (PerCom)</i>.'
+citation: 'Siyuan Wang, <u>Ke Li</u>, Jingyuan Huang, Jike Wang, Cheng Zhang, Alanson P. Sample, and Dongyao Chen. 2026. µTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets. In <i>2026 IEEE International Conference on Pervasive Computing and Communications (PerCom)</i>, pp. 1-10.'
 teaser_gif: /files/pubs/utouch.png
 ---
 <!--Selected Media Coverage:-->
