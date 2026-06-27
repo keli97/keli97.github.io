@@ -10,7 +10,9 @@ redirect_from:
 
 <img src="https://keli97.github.io/files/cv_header2.jpg" alt="avatar" style="width: 700px; height: auto;">
 
-* I am currently a fifth-year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, wearable devices, HCI, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, IPSN, and PerCom.
+* **📢 I am currently on the job market for Research Scientist and Software Engineer positions in industry. Please feel free to reach out if you are interested in discussing potential opportunities!**
+
+* I am currently a final year Ph.D. candidate at [SciFi Lab](https://www.scifilab.org/) in College of Computing and Information Science at Cornell University, advised by [Prof. Cheng Zhang](https://czhang.org/). My current research interests cover a wide range of ubiquitous computing, wearable devices, HCI, and AI. My work have been published in a series of top-tier conferences, including UbiComp, MobiCom, CHI, ISWC, IPSN, and PerCom.
 
 * I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) 2024. Check out my [Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-ke-li/) at Cornell Graduate School!
 
@@ -24,6 +26,7 @@ redirect_from:
 
 Recent News
 ------
+* May 2026: I joined Google as a research intern for multimodal sensing foundation research.
 * Feb. 2026: My [internship project](https://keli97.github.io/publication/2026-04-13-Head-and-Body-Pose-Estimation-using-Ultrasound-Sensing-on-Smart-Glasses) at Meta is accepted to be published at CHI Extended Abstracts 2026. This project explores head pose and full-body pose estimation on a pair of smart glasses using ultrasonic sensing.
 * Dec. 2025: [μTouch](https://keli97.github.io/publication/2026-02-24-µTouch-Enabling-Accurate-Lightweight-Self-Touch-Sensing-with-Passive-Magnets) is accepted for publication at PerCom 2026, which presents a novel magnetic sensing platform for self-touch gesture recognition.
 * Aug. 2025: I joined Meta for a four-month research internship.

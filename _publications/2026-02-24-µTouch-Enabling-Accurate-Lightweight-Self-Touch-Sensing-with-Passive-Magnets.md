@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-02-24-µTouch-Enabling-Accurate-Lightweight-Self-Touch-Sensing-with-Passive-Magnets
 excerpt: 'March 16-20, 2026, Pisa, Italy. Keyword: HCI, Healthcare, Pervasive Sensing, Magnetic Sensing, Wearable Computing'
 date: 2026-02-24
-venue: 'The Proceedings of the International Conference on Pervasive Computing and Communications (PerCom)'
-paperurl: 'https://arxiv.org/abs/2601.22864'
-citation: 'Siyuan Wang, <u>Ke Li</u>, Jingyuan Huang, Jike Wang, Cheng Zhang, Alanson P. Sample, and Dongyao Chen. 2026. µTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets. <i>The Proceedings of the International Conference on Pervasive Computing and Communications (PerCom)</i>.'
+venue: 'IEEE International Conference on Pervasive Computing and Communications (PerCom)'
+paperurl: 'https://doi.ieeecomputersociety.org/10.1109/PerCom67906.2026.11524446'
+citation: 'Siyuan Wang, <u>Ke Li</u>, Jingyuan Huang, Jike Wang, Cheng Zhang, Alanson P. Sample, and Dongyao Chen. 2026. µTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets. <i>IEEE International Conference on Pervasive Computing and Communications (PerCom)</i>.'
 teaser_gif: /files/pubs/utouch.png
 ---
 <!--Selected Media Coverage:-->
