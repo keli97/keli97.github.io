@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+INFO 3312/5312: Data Communication (Fall 2026)
+----------
+**Teaching Assistant at Cornell University, Instructor: Prof. Benjamin Soltoff**
+
+This course is for undergraduate and graduate students at Cornell and introduces the theories and practical applications of effective data communication, with an emphasis on data visualization. Students learn to design, create, and evaluate visualizations using R and modern visualization tools to communicate insights from real-world data. My responsibilities as a TA include holding office hours, grading assignments, and helping students address challenges encountered during coursework and visualization projects.
+
 INFO 4100/5101: Learning Analytics (Spring 2026)
 ----------
 **Teaching Assistant at Cornell University, Instructor: Prof. Rene Kizilcec**

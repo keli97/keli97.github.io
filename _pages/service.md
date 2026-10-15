@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="https://keli97.github.io/files/conference/chi_2027.jpg" alt="CHI 2027" style="width: 80px; height: auto; margin-right: 15px; margin-top: 50px;">
+    <div>
+        <h2>External Reviewer of CHI 2027</h2>
+        <p><strong>Oct. 2026</strong></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="https://keli97.github.io/files/conference/uist_2026.jpg" alt="UIST 2026" style="width: 80px; height: auto; margin-right: 15px; margin-top: 50px;">
     <div>
         <h2>External Reviewer of UIST 2026</h2>
