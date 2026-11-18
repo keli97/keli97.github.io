@@ -24,6 +24,8 @@ redirect_from:
 
 Recent News
 ------
+* Nov. 2026: I successfully defended my Ph.D. dissertation and will graduate in December 2026!
+* Nov. 2026: [EMOTE](https://keli97.github.io/publication/2026-11-17-EMOTE-Quantification-of-Facial-Asymmetries-using-Inaudible-Acoustic-Sensing-on-Smart-Glasses) is accepted for publication at ACM Transactions on Computing for Healthcare, which demontsrates the feasibility of using active acoustic sensing on smart glasses to quantify facial asymmetries for patients with facial paralysis.
 * May 2026: I joined Google as a research intern for multimodal sensing foundation research.
 * Feb. 2026: My [internship project](https://keli97.github.io/publication/2026-04-13-Head-and-Body-Pose-Estimation-using-Ultrasound-Sensing-on-Smart-Glasses) at Meta is accepted to be published at CHI Extended Abstracts 2026. This project explores head pose and full-body pose estimation on a pair of smart glasses using ultrasonic sensing.
 * Dec. 2025: [μTouch](https://keli97.github.io/publication/2026-02-24-µTouch-Enabling-Accurate-Lightweight-Self-Touch-Sensing-with-Passive-Magnets) is accepted for publication at PerCom 2026, which presents a novel magnetic sensing platform for self-touch gesture recognition.
